@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt     #graficos estadisticos
 
 
 #Mencionamos carpeta donde se encuentra nuestro csv y lo mencionamos con el nombre "heart"
-os.chdir(r'C:\Users\alvar\Desktop\stat_python')
+os.chdir(r'C:\Users\alvar\Desktop\EDEM\2. GITHUB\edem\Estadistica Python\my project\dataset and python')
 heart = pd.read_csv ('heart.csv', sep=',')
 os.getcwd()
 
