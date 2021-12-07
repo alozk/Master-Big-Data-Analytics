@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt     #graficos estadisticos
 
 
 #Mencionamos carpeta donde se encuentra nuestro csv y lo mencionamos con el nombre "heart"
-os.chdir(r'C:\Users\alvar\Desktop\EDEM\2. GITHUB\edem\Estadistica Python\my project\dataset and python')
+os.chdir(r'C:\Users\alvar\Desktop\EDEM\2. GITHUB\edem\Estadistica Python\my project')
 heart = pd.read_csv ('heart.csv', sep=',')
 os.getcwd()
 
@@ -160,43 +160,3 @@ plt.axvline(x=m_cho + sd_cho, linewidth=1, linestyle= 'dashed', color="green", l
 
 
 plt.savefig('Figure 2.svg')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-mytablecho = heart.groupby(['Cholesterol']).size()
-print(mytable)
-n=mytablecho.sum()
-
-#Sacamos la tabla con porcentajes
-mytablecho2 = (mytablecho/n)*100
-print(mytablecho2)
-
-#Redondeamos los porcentajes
-mytablecho3 = round(mytablecho2,1)
-print(mytablecho3)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
