@@ -15,7 +15,7 @@ from pandas.api.types import CategoricalDtype #For definition of custom categori
 import seaborn as sns  # For hi level, Pandas oriented, graphics
 import scipy.stats as stats  # For statistical inference   
 
-#Mencionamos carpeta donde se encuentra nuestro csv y lo mencionamos con el nombre "heart"
+#Mencionamos carpeta donde se encuentra nuestro csv y lo mencionamos con el nombre "wbr"
 #Reads data from CSV file and stores it in a dataframe called rentals_2011
 #Pay atention to the specific format of yout CSV data (; , or , .)
 
