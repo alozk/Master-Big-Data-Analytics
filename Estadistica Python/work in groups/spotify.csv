@@ -1,0 +1,604 @@
+﻿ID;title;artist;genre;year;bpm;nrgy;dnce;val;dur;lyrics;popu
+1;Hey, Soul Sister;Train;no pop;2010;97;89;67;80;217;4;83
+2;Love The Way You Lie;Eminem;no pop;2010;87;93;75;64;263;23;82
+3;TiK ToK;Kesha;pop;2010;120;84;76;71;200;14;80
+4;Bad Romance;Lady Gaga;pop;2010;119;92;70;71;295;4;79
+5;Just the Way You Are;Bruno Mars;pop;2010;109;84;64;43;221;4;78
+6;Baby;Justin Bieber;pop;2010;65;86;73;54;214;14;77
+7;Dynamite;Taio Cruz;pop;2010;120;78;75;82;203;9;77
+8;Secrets;OneRepublic;pop;2010;148;76;52;38;225;4;77
+9;Empire State of Mind (Part II) Broken Down;Alicia Keys;no pop;2010;93;37;48;14;216;3;76
+10;Only Girl (In The World);Rihanna;pop;2010;126;72;79;61;235;4;73
+11;Club Can't Handle Me (feat. David Guetta);Flo Rida;pop;2010;128;87;62;47;235;3;73
+12;Marry You;Bruno Mars;pop;2010;145;83;62;48;230;4;73
+13;Cooler Than Me - Single Mix;Mike Posner;pop;2010;130;82;77;63;213;5;73
+14;Telephone;Lady Gaga;pop;2010;122;83;83;71;221;4;73
+15;Like A G6;Far East Movement;pop;2010;125;84;44;78;217;45;72
+16;OMG (feat. will.i.am);Usher;no pop;2010;130;75;78;33;269;3;72
+17;Eenie Meenie;Sean Kingston;pop;2010;121;61;72;83;202;3;71
+18;The Time (Dirty Bit);The Black Eyed Peas;pop;2010;128;81;82;44;308;7;70
+19;Alejandro;Lady Gaga;pop;2010;99;80;63;37;274;5;69
+20;Your Love Is My Drug;Kesha;pop;2010;120;61;83;76;187;10;69
+21;Meet Me Halfway;The Black Eyed Peas;pop;2010;130;63;80;40;284;7;68
+22;Whataya Want from Me;Adam Lambert;pop;2010;186;68;44;45;227;5;66
+23;Take It Off;Kesha;pop;2010;125;68;73;74;215;3;66
+24;Misery;Maroon 5;pop;2010;103;81;70;73;216;4;65
+25;All The Right Moves;OneRepublic;pop;2010;146;95;53;65;238;5;65
+26;Animal;Neon Trees;no pop;2010;148;83;48;74;212;4;65
+27;Naturally;Selena Gomez & The Scene;pop;2010;133;90;61;88;203;5;64
+28;I Like It;Enrique Iglesias;pop;2010;129;94;65;73;231;9;63
+29;Teenage Dream;Katy Perry;pop;2010;120;80;72;59;228;4;63
+30;California Gurls;Katy Perry;pop;2010;125;75;79;40;235;5;62
+31;3;Britney Spears;pop;2010;135;71;70;79;213;5;62
+32;My First Kiss - feat. Ke$ha;3OH!3;pop;2010;138;89;68;83;192;8;62
+33;Blah Blah Blah (feat. 3OH!3);Kesha;pop;2010;120;84;75;52;172;12;62
+34;Imma Be;The Black Eyed Peas;pop;2010;92;52;60;41;258;37;62
+35;Try Sleeping with a Broken Heart;Alicia Keys;no pop;2010;111;82;50;55;249;11;62
+36;Sexy Bitch (feat. Akon);David Guetta;pop;2010;130;63;81;80;196;5;61
+37;Bound To You - Burlesque Original Motion Picture Soundtrack;Christina Aguilera;pop;2010;164;41;29;7;264;3;61
+38;If I Had You;Adam Lambert;pop;2010;131;91;65;79;228;11;59
+39;Rock That Body;The Black Eyed Peas;pop;2010;125;91;72;84;269;10;59
+40;Dog Days Are Over;Florence + The Machine;no pop;2010;150;81;50;26;253;9;58
+41;Something's Got A Hold On Me - Burlesque Original Motion Picture Soundtrack;Christina Aguilera;pop;2010;150;85;51;72;185;27;58
+42;Doesn't Mean Anything;Alicia Keys;no pop;2010;104;41;71;10;273;3;57
+43;Hard;Rihanna;pop;2010;182;75;31;16;251;11;57
+44;Loca;Shakira;pop;2010;112;87;80;85;193;7;56
+45;You Lost Me;Christina Aguilera;pop;2010;43;39;23;7;257;4;56
+46;Not Myself Tonight;Christina Aguilera;pop;2010;120;81;76;54;186;4;55
+47;Written in the Stars (feat. Eric Turner);Tinie Tempah;pop;2010;91;95;64;57;220;7;52
+48;DJ Got Us Fallin' In Love (feat. Pitbull);Usher;pop;2010;120;86;66;65;221;11;52
+49;Castle Walls (feat. Christina Aguilera);T.I.;no pop;2010;80;86;45;58;329;39;49
+50;Break Your Heart;Taio Cruz;pop;2010;122;90;67;63;186;3;33
+51;Hello;Martin Solveig;no pop;2010;128;98;67;45;191;3;0
+52;A Thousand Years;Christina Perri;pop;2011;139;41;42;16;285;3;81
+53;Someone Like You;Adele;no pop;2011;135;33;56;28;285;3;80
+54;Give Me Everything;Pitbull;pop;2011;129;94;67;53;252;16;79
+55;Just the Way You Are;Bruno Mars;pop;2011;109;84;64;43;221;4;78
+56;Rolling in the Deep;Adele;no pop;2011;105;76;73;52;228;3;76
+57;Run the World (Girls);Beyonce;pop;2011;127;90;73;76;236;14;76
+58;Moves Like Jagger - Studio Recording From The Voice Performance;Maroon 5;pop;2011;128;76;72;62;201;5;76
+59;Love On Top;Beyonce;pop;2011;94;75;65;65;267;9;76
+60;Grenade;Bruno Mars;pop;2011;110;56;71;23;223;6;75
+61;Tonight Tonight;Hot Chelle Rae;pop;2011;100;78;69;81;200;12;75
+62;What the Hell;Avril Lavigne;pop;2011;150;93;58;88;221;5;74
+63;Born This Way;Lady Gaga;pop;2011;124;83;59;49;260;16;73
+64;Monster;Kanye West;no pop;2011;125;69;63;10;379;20;73
+65;Marry You;Bruno Mars;pop;2011;145;83;62;48;230;4;73
+66;Best Thing I Never Had;Beyonce;pop;2011;99;65;55;30;254;3;73
+67;Party Rock Anthem;LMFAO;no pop;2011;130;74;75;35;262;16;72
+68;We R Who We R;Kesha;pop;2011;120;82;74;65;205;4;72
+69;Price Tag;Jessie J;pop;2011;175;83;64;68;223;18;72
+70;Good Life;OneRepublic;pop;2011;95;69;63;65;253;5;72
+71;Just Can't Get Enough;The Black Eyed Peas;pop;2011;94;63;66;26;219;18;71
+72;On The Floor;Jennifer Lopez;pop;2011;130;78;73;57;285;5;69
+73;What's My Name?;Rihanna;pop;2011;100;79;69;58;263;7;69
+74;Yeah 3x;Chris Brown;pop;2011;130;88;71;70;242;4;69
+75;Without You (feat. Usher);David Guetta;pop;2011;128;61;61;40;208;3;68
+76;Sexy And I Know It;LMFAO;no pop;2011;130;86;71;80;199;32;67
+77;The Edge Of Glory;Lady Gaga;pop;2011;128;77;58;36;321;4;67
+78;E.T.;Katy Perry;pop;2011;152;87;62;76;230;18;66
+79;Till the World Ends;Britney Spears;pop;2011;132;71;69;45;238;7;65
+80;I Wanna Go;Britney Spears;pop;2011;130;55;70;79;210;4;64
+81;Blow;Kesha;pop;2011;120;73;75;81;220;4;64
+82;You And I;Lady Gaga;pop;2011;127;70;52;52;307;5;64
+83;Judas;Lady Gaga;pop;2011;131;93;66;53;249;7;63
+84;Tonight (I'm Fuckin' You);Enrique Iglesias;pop;2011;126;89;65;32;232;5;63
+85;Please Don't Go;Mike Posner;pop;2011;120;88;70;66;197;3;63
+86;We Found Love;Rihanna;pop;2011;128;77;73;60;215;4;61
+87;Marry The Night;Lady Gaga;pop;2011;131;88;61;38;265;6;61
+88;1+1;Beyonce;pop;2011;63;38;30;26;274;3;60
+89;Hold It Against Me;Britney Spears;pop;2011;133;72;65;39;229;4;59
+90;I'm Into You;Jennifer Lopez;pop;2011;84;75;59;70;200;14;59
+91;Papi;Jennifer Lopez;pop;2011;120;81;71;89;223;6;58
+92;Cheers (Drink To That);Rihanna;pop;2011;80;91;58;73;262;4;58
+93;S&M Remix;Rihanna;pop;2011;128;81;82;89;257;5;54
+94;Written in the Stars (feat. Eric Turner);Tinie Tempah;pop;2011;91;95;64;57;220;7;52
+95;Jar of Hearts;Christina Perri;pop;2011;75;35;35;9;247;3;50
+96;Castle Walls (feat. Christina Aguilera);T.I.;no pop;2011;80;86;45;58;329;39;49
+97;Turning Page;Sleeping At Last;pop;2011;125;38;30;19;255;3;46
+98;Super Bass;Nicki Minaj;pop;2011;127;74;77;59;201;23;38
+99;Raise Your Glass;P!nk;pop;2011;122;64;68;56;208;12;38
+100;Invading My Mind;Jennifer Lopez;pop;2011;129;88;73;69;201;7;31
+101;Moment 4 Life - Album Version (Edited);Nicki Minaj;pop;2011;130;88;50;37;279;38;28
+102;Last Friday Night (T.G.I.F.);Katy Perry;pop;2011;126;81;65;72;231;4;27
+103;Firework;Katy Perry;pop;2011;124;83;64;65;228;5;25
+104;Muny - Album Version (Edited);Nicki Minaj;pop;2011;98;72;80;53;227;33;7
+105;Titanium (feat. Sia);David Guetta;pop;2012;126;79;60;30;245;10;80
+106;Locked Out of Heaven;Bruno Mars;pop;2012;144;70;73;87;233;4;79
+107;Paradise;Coldplay;no pop;2012;140;59;45;20;279;3;79
+108;Payphone;Maroon 5;pop;2012;110;75;74;55;231;4;79
+109;What Makes You Beautiful;One Direction;no pop;2012;125;79;73;89;200;7;78
+110;I Knew You Were Trouble.;Taylor Swift;pop;2012;77;47;62;68;220;4;77
+111;Call Me Maybe;Carly Rae Jepsen;pop;2012;120;58;78;66;193;4;76
+112;Love You Like A Love Song;Selena Gomez & The Scene;pop;2012;117;68;86;92;188;5;76
+113;Set Fire to the Rain;Adele;no pop;2012;108;68;61;47;242;3;76
+114;We Are Never Ever Getting Back Together;Taylor Swift;pop;2012;86;68;63;75;193;9;75
+115;Stronger (What Doesn't Kill You);Kelly Clarkson;pop;2012;116;94;56;68;222;5;74
+116;Try;P!nk;pop;2012;104;63;67;55;248;3;74
+117;Starships;Nicki Minaj;pop;2012;125;72;75;75;211;8;73
+118;One More Night;Maroon 5;pop;2012;93;82;72;62;220;3;73
+119;Good Time;Owl City;pop;2012;126;87;56;68;206;14;73
+120;Glad You Came;The Wanted;no pop;2012;127;85;72;45;198;6;72
+121;Beauty And A Beat;Justin Bieber;pop;2012;128;84;60;53;228;6;72
+122;International Love;Pitbull;pop;2012;120;86;67;65;227;5;72
+123;Some Nights;fun.;pop;2012;108;74;67;39;277;5;72
+124;Boyfriend;Justin Bieber;pop;2012;97;55;72;33;171;5;71
+125;Part Of Me;Katy Perry;pop;2012;130;92;68;77;216;4;71
+126;Domino;Jessie J;pop;2012;127;55;76;78;232;3;69
+127;Where Have You Been;Rihanna;pop;2012;128;85;72;44;243;9;68
+128;Wide Awake;Katy Perry;pop;2012;160;68;51;57;221;4;68
+129;The One That Got Away;Katy Perry;pop;2012;134;80;69;88;227;4;67
+130;Dance Again;Jennifer Lopez;pop;2012;128;86;79;71;237;7;66
+131;Turn Up the Music;Chris Brown;pop;2012;130;84;59;64;228;10;65
+132;Lights - Single Version;Ellie Goulding;pop;2012;120;80;68;78;211;4;65
+133;We Are Young (feat. Janelle Monae);fun.;pop;2012;184;64;38;74;251;8;63
+134;Diamonds;Rihanna;pop;2012;92;71;56;39;225;5;61
+135;Don't Stop the Party (feat. TJR);Pitbull;pop;2012;127;96;72;95;206;9;59
+136;You Da One;Rihanna;pop;2012;127;72;70;86;200;4;57
+137;Stereo Hearts (feat. Adam Levine);Gym Class Heroes;pop;2012;90;80;65;80;211;10;54
+138;It Will Rain;Bruno Mars;pop;2012;150;84;58;48;258;5;38
+139;Blow Me (One Last Kiss);P!nk;pop;2012;114;92;60;75;256;4;0
+140;Underneath the Tree;Kelly Clarkson;pop;2013;160;81;51;69;230;5;88
+141;Wake Me Up;Avicii;no pop;2013;124;78;53;64;247;5;85
+142;Story of My Life;One Direction;no pop;2013;121;66;60;29;245;5;81
+143;Just Give Me a Reason (feat. Nate Ruess);P!nk;pop;2013;95;55;78;44;243;5;81
+144;Hall of Fame;The Script;no pop;2013;85;87;42;63;203;6;80
+145;Roar;Katy Perry;pop;2013;180;77;55;46;224;4;78
+146;We Can't Stop;Miley Cyrus;pop;2013;80;62;61;48;231;3;78
+147;Don't You Worry Child - Radio Edit;Swedish House Mafia;no pop;2013;129;84;61;44;213;5;78
+148;Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit;Daft Punk;no pop;2013;116;81;79;86;248;4;77
+149;Wrecking Ball;Miley Cyrus;pop;2013;120;42;53;35;221;3;77
+150;Impossible;James Arthur;pop;2013;170;70;38;30;209;9;77
+151;Blurred Lines;Robin Thicke;pop;2013;120;60;85;84;264;4;76
+152;Heart Attack;Demi Lovato;pop;2013;174;79;50;50;211;10;76
+153;We Are Never Ever Getting Back Together;Taylor Swift;pop;2013;86;68;63;75;193;9;75
+154;Die Young;Kesha;pop;2013;128;70;71;80;212;5;75
+155;Clarity;Zedd;no pop;2013;128;78;51;18;271;7;75
+156;Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix;Lana Del Rey;pop;2013;126;81;57;11;215;6;74
+157;Under Control;Calvin Harris;pop;2013;126;92;54;51;184;8;74
+158;Everybody Talks;Neon Trees;no pop;2013;155;92;47;73;177;6;74
+159;Hold On, We're Going Home;Drake;no pop;2013;100;41;77;29;228;10;73
+160;Best Song Ever;One Direction;no pop;2013;118;88;65;49;200;5;73
+161;Kiss You;One Direction;no pop;2013;90;93;63;91;183;6;73
+162;Sweet Nothing (feat. Florence Welch);Calvin Harris;pop;2013;128;93;57;58;213;11;72
+163;Lose Yourself to Dance;Daft Punk;no pop;2013;100;66;83;67;354;6;72
+164;Work Bitch;Britney Spears;pop;2013;128;82;63;85;248;16;71
+165;Brave;Sara Bareilles;pop;2013;185;84;55;76;221;5;71
+166;Can't Hold Us (feat. Ray Dalton);Macklemore & Ryan Lewis;pop;2013;146;93;63;88;258;8;70
+167;Feel This Moment (feat. Christina Aguilera);Pitbull;pop;2013;136;76;67;54;230;16;70
+168;Beneath Your Beautiful;Labrinth;no pop;2013;84;52;56;23;272;4;70
+169;Let Me Love You (Until You Learn To Love Yourself);Ne-Yo;pop;2013;125;68;66;25;252;4;70
+170;Thrift Shop (feat. Wanz);Macklemore & Ryan Lewis;pop;2013;95;53;78;66;236;29;69
+171;If I Lose Myself - Alesso vs OneRepublic;OneRepublic;pop;2013;126;75;52;16;215;4;69
+172;The Way;Ariana Grande;pop;2013;82;88;65;86;227;11;68
+173;Suit & Tie;Justin Timberlake;pop;2013;102;60;80;36;326;22;68
+174;#thatPOWER;will.i.am;pop;2013;128;61;80;40;280;6;68
+175;I Love It (feat. Charli XCX);Icona Pop;pop;2013;126;91;71;82;157;3;67
+176;Play Hard (feat. Ne-Yo & Akon) - New Edit;David Guetta;pop;2013;130;87;72;68;209;4;67
+177;Daylight;Maroon 5;pop;2013;120;67;66;37;225;3;66
+178;Love Somebody;Maroon 5;pop;2013;120;78;68;40;230;4;65
+179;A Little Party Never Killed Nobody (All We Got);Fergie;pop;2013;130;62;76;52;241;18;65
+180;Move;Little Mix;pop;2013;121;74;85;77;224;9;63
+181;Walks Like Rihanna;The Wanted;no pop;2013;126;82;56;43;202;6;62
+182;Rock N Roll;Avril Lavigne;pop;2013;184;96;47;67;207;13;61
+183;Heartbreaker;Justin Bieber;pop;2013;105;52;56;58;263;10;61
+184;Mirrors - Radio Edit;Justin Timberlake;pop;2013;77;60;58;65;277;5;60
+185;Next To Me;Emeli Sande;pop;2013;95;80;67;35;197;4;60
+186;Made In The USA;Demi Lovato;pop;2013;87;86;58;59;196;4;60
+187;Clown;Emeli Sande;pop;2013;130;23;45;23;221;4;60
+188;Girl On Fire (feat. Nicki Minaj) - Inferno Version;Alicia Keys;no pop;2013;93;81;55;34;271;31;59
+189;TKO;Justin Timberlake;pop;2013;138;68;61;49;424;24;58
+190;Come & Get It;Selena Gomez;pop;2013;80;79;55;58;232;5;57
+191;Live It Up;Jennifer Lopez;pop;2013;128;73;69;65;244;17;57
+192;We Own The Night;The Wanted;no pop;2013;104;94;55;56;206;13;56
+193;Atlas - From The Hunger Games: Catching Fire Soundtrack;Coldplay;no pop;2013;136;45;28;11;236;3;55
+194;What About Love;Austin Mahone;pop;2013;100;78;63;28;203;4;54
+195;Take Back the Night;Justin Timberlake;pop;2013;107;66;59;33;353;16;54
+196;Applause;Lady Gaga;pop;2013;140;78;67;73;212;5;52
+197;Anything Could Happen;Ellie Goulding;pop;2013;103;78;70;38;286;3;52
+198;Finally Found You;Enrique Iglesias;pop;2013;128;88;62;66;221;10;52
+199;Pom Poms;Jonas Brothers;no pop;2013;148;98;68;90;198;9;52
+200;#Beautiful;Mariah Carey;pop;2013;107;76;68;45;200;4;51
+201;How Ya Doin'? (feat. Missy Elliott);Little Mix;pop;2013;201;95;36;51;211;48;50
+202;Crazy Kids (feat. will.i.am);Kesha;pop;2013;128;75;72;50;229;4;46
+203;"Ooh La La (from ""The Smurfs 2"")";Britney Spears;pop;2013;128;57;69;73;257;5;45
+204;People Like Us;Kelly Clarkson;pop;2013;128;79;60;61;259;4;45
+205;Overdose;Ciara;pop;2013;107;70;77;79;227;3;43
+206;Right Now - Dyro Radio Edit;Rihanna;pop;2013;130;74;53;45;186;4;42
+207;Give It 2 U;Robin Thicke;pop;2013;127;83;67;58;230;7;41
+208;Foolish Games;Jewel;no pop;2013;132;34;51;7;250;3;36
+209;Outta Nowhere (feat. Danny Mercer);Pitbull;pop;2013;95;84;71;66;207;3;35
+210;Freak;Kelly Rowland;no pop;2013;104;78;65;45;274;6;28
+211;All of Me;John Legend;no pop;2014;120;26;42;33;270;3;86
+212;Stay With Me;Sam Smith;pop;2014;84;42;42;18;173;4;85
+213;Summer;Calvin Harris;pop;2014;128;86;60;74;223;3;80
+214;"Happy - From ""Despicable Me 2""";Pharrell Williams;pop;2014;160;82;65;96;233;18;79
+215;Rude;MAGIC!;pop;2014;144;76;77;93;225;4;79
+216;Shake It Off;Taylor Swift;pop;2014;160;80;65;94;219;17;78
+217;Dark Horse;Katy Perry;pop;2014;132;59;65;35;216;5;78
+218;Hey Brother;Avicii;no pop;2014;125;78;55;46;255;4;78
+219;Maps;Maroon 5;pop;2014;120;71;74;88;190;3;78
+220;Treasure;Bruno Mars;pop;2014;116;69;87;94;179;4;77
+221;Let Her Go;Passenger;no pop;2014;75;54;51;24;253;6;77
+222;Problem;Ariana Grande;pop;2014;103;81;66;63;194;15;75
+223;Pompeii;Bastille;no pop;2014;127;72;68;57;214;4;73
+224;Team;Lorde;pop;2014;100;58;69;42;193;9;73
+225;Love Me Again;John Newman;pop;2014;126;89;50;21;240;4;73
+226;Latch;Disclosure;no pop;2014;122;73;50;52;256;17;72
+227;Adore You;Miley Cyrus;pop;2014;120;66;58;20;279;3;72
+228;Love Never Felt So Good;Michael Jackson;pop;2014;118;72;78;71;246;4;71
+229;Burn;Ellie Goulding;pop;2014;87;78;56;33;231;4;71
+230;She Looks So Perfect;5 Seconds of Summer;no pop;2014;160;95;49;44;202;13;71
+231;Fancy;Iggy Azalea;no pop;2014;95;72;91;38;200;7;70
+232;Talk Dirty (feat. 2 Chainz);Jason Derulo;pop;2014;100;65;76;76;178;23;68
+233;Gorilla;Bruno Mars;pop;2014;140;54;72;64;244;4;68
+234;human;Christina Perri;pop;2014;144;49;44;25;251;4;68
+235;Young Girls;Bruno Mars;pop;2014;126;75;56;50;229;3;67
+236;Wiggle (feat. Snoop Dogg);Jason Derulo;pop;2014;82;62;70;72;193;25;67
+237;Love Runs Out;OneRepublic;pop;2014;120;93;72;74;225;6;66
+238;This Is How We Do;Katy Perry;pop;2014;96;64;69;80;204;5;66
+239;Mmm Yeah (feat. Pitbull);Austin Mahone;pop;2014;126;92;71;98;232;4;65
+240;A Little Party Never Killed Nobody (All We Got);Fergie;pop;2014;130;62;76;52;241;18;65
+241;#SELFIE;The Chainsmokers;pop;2014;128;92;79;66;184;25;65
+242;Partition;Beyonce;pop;2014;186;44;41;17;319;29;65
+243;Birthday;Katy Perry;pop;2014;126;67;72;84;215;7;65
+244;G.U.Y.;Lady Gaga;pop;2014;110;92;62;57;233;4;65
+245;Stay The Night - Featuring Hayley Williams Of Paramore;Zedd;no pop;2014;128;74;60;46;217;4;64
+246;"Let It Go - From ""Frozen / Single Version";Demi Lovato;pop;2014;140;66;50;25;226;4;63
+247;Wings;Birdy;no pop;2014;83;71;47;22;252;3;62
+248;Can't Remember to Forget You (feat. Rihanna);Shakira;pop;2014;138;81;69;82;207;7;62
+249;Shot Me Down (feat. Skylar Grey) - Radio Edit;David Guetta;pop;2014;192;77;35;4;191;5;61
+250;Say Something;A Great Big World;no pop;2014;138;15;45;9;229;3;61
+251;A Sky Full of Stars;Coldplay;no pop;2014;125;68;55;16;268;3;60
+252;Come Get It Bae;Pharrell Williams;pop;2014;120;80;93;90;202;8;59
+253;Chandelier;Sia;no pop;2014;174;78;29;62;216;7;56
+254;XO;Beyonce;pop;2014;170;79;47;21;216;26;56
+255;We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song];Pitbull;pop;2014;125;94;60;55;222;7;56
+256;Not About Angels;Birdy;no pop;2014;116;14;41;23;190;4;56
+257;Drunk in Love;Beyonce;pop;2014;140;62;59;40;323;5;52
+258;Anaconda;Nicki Minaj;pop;2014;130;60;96;65;260;18;50
+259;Boom Clap - From the Motion Picture Das Schicksal ist ein mieser Verr�ter;Charli XCX;pop;2014;92;81;68;64;169;6;50
+260;La La La (Brasil 2014) (feat. Carlinhos Brown);Shakira;pop;2014;128;82;80;61;198;4;50
+261;Tee Shirt - Soundtrack Version;Birdy;no pop;2014;76;34;68;56;160;3;49
+262;Words as Weapons;Birdy;no pop;2014;120;35;53;19;239;3;44
+263;You're Mine (Eternal);Mariah Carey;pop;2014;149;58;63;56;224;7;38
+264;Sheezus;Lily Allen;pop;2014;130;50;78;39;235;4;37
+265;Cannonball;Lea Michele;no pop;2014;92;82;56;57;215;5;37
+266;It's On Again - Main Soundtrack;Alicia Keys;no pop;2014;110;54;64;53;230;11;30
+267;I Luh Ya Papi;Jennifer Lopez;pop;2014;96;73;74;59;207;42;28
+268;Not a Bad Thing;Justin Timberlake;pop;2014;86;73;59;46;266;6;0
+269;Thinking out Loud;Ed Sheeran;pop;2015;79;45;78;59;282;3;84
+270;I'm Not The Only One;Sam Smith;pop;2015;82;49;68;49;239;4;84
+271;The Hills;The Weeknd;no pop;2015;113;56;58;14;242;5;84
+272;Love Yourself;Justin Bieber;pop;2015;100;38;61;52;234;44;83
+273;Uptown Funk;Mark Ronson;pop;2015;115;61;86;93;270;8;82
+274;Take Me To Church;Hozier;no pop;2015;129;66;57;44;242;5;81
+275;Sugar;Maroon 5;pop;2015;120;79;75;88;235;3;81
+276;Sorry;Justin Bieber;pop;2015;100;76;65;41;201;5;81
+277;FourFiveSeconds;Rihanna;pop;2015;206;27;58;35;188;5;80
+278;"Love Me Like You Do - From ""Fifty Shades Of Grey""";Ellie Goulding;pop;2015;190;61;26;28;253;5;79
+279;"Earned It (Fifty Shades Of Grey) - From The ""Fifty Shades Of Grey"" Soundtrack";The Weeknd;no pop;2015;120;38;66;44;252;3;79
+280;What Do You Mean?;Justin Bieber;pop;2015;125;57;85;79;206;10;79
+281;Stitches;Shawn Mendes;pop;2015;150;75;75;76;207;7;78
+282;Want to Want Me;Jason Derulo;pop;2015;114;68;78;66;208;6;77
+283;My House;Flo Rida;pop;2015;94;70;69;74;192;5;77
+284;Waves - Robin Schulz Radio Edit;Mr. Probz;no pop;2015;120;51;83;45;208;4;77
+285;Night Changes;One Direction;no pop;2015;120;52;67;37;227;4;77
+286;How Deep Is Your Love;Calvin Harris;pop;2015;122;87;74;34;213;7;77
+287;Never Forget You;Zara Larsson;pop;2015;146;73;58;28;213;5;77
+288;Love Me Harder;Ariana Grande;pop;2015;99;71;47;24;236;3;76
+289;Animals;Maroon 5;pop;2015;190;74;28;33;231;9;76
+290;Blame;Calvin Harris;pop;2015;128;86;41;35;213;8;76
+291;Worth It;Fifth Harmony;pop;2015;100;77;88;59;225;9;75
+292;Break Free;Ariana Grande;pop;2015;130;70;69;28;215;5;75
+293;Don't;Ed Sheeran;pop;2015;95;61;81;85;220;7;74
+294;Elastic Heart;Sia;no pop;2015;130;79;42;50;257;5;73
+295;Rather Be (feat. Jess Glynne);Clean Bandit;pop;2015;121;59;80;55;228;4;73
+296;Hello;Adele;no pop;2015;158;45;48;29;295;3;73
+297;Dear Future Husband;Meghan Trainor;pop;2015;79;78;66;83;184;19;72
+298;07-nov;Beyonce;pop;2015;136;71;75;56;214;13;72
+299;The Heart Wants What It Wants;Selena Gomez;pop;2015;83;79;62;62;227;4;72
+300;Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack);David Guetta;pop;2015;86;73;60;53;193;15;72
+301;Genie In a Bottle;Christina Aguilera;pop;2015;176;80;63;91;218;16;72
+302;Company;Justin Bieber;pop;2015;95;80;59;43;208;6;72
+303;Sing;Ed Sheeran;pop;2015;120;67;82;94;235;5;71
+304;Jealous - Remix;Nick Jonas;pop;2015;93;71;68;45;222;8;70
+305;Really Don't Care;Demi Lovato;pop;2015;121;73;71;85;202;9;70
+306;Downtown (feat. Melle Mel, Grandmaster Caz, Kool Moe Dee & Eric Nally);Macklemore & Ryan Lewis;pop;2015;110;61;83;71;293;7;70
+307;Only Love Can Hurt Like This;Paloma Faith;no pop;2015;91;89;57;31;233;8;69
+308;Heartbeat Song;Kelly Clarkson;pop;2015;149;80;49;48;199;5;69
+309;Up;Olly Murs;pop;2015;115;85;69;64;224;3;69
+310;Trumpets;Jason Derulo;pop;2015;82;70;63;64;217;24;69
+311;Runnin' (Lose It All);Naughty Boy;no pop;2015;139;85;32;8;213;8;69
+312;Same Old Love;Selena Gomez;pop;2015;98;59;67;44;229;3;69
+313;I Want You To Know;Zedd;no pop;2015;130;85;58;37;240;6;68
+314;Lips Are Movin;Meghan Trainor;pop;2015;139;83;78;95;183;5;68
+315;I'll Show You;Justin Bieber;pop;2015;192;61;36;8;200;10;68
+316;Here;Alessia Cara;no pop;2015;120;82;38;33;199;10;68
+317;I Lived;OneRepublic;pop;2015;120;85;59;34;235;4;67
+318;Fireball (feat. John Ryan);Pitbull;pop;2015;123;94;69;79;235;6;67
+319;Easy Love;Sigala;pop;2015;124;94;68;65;230;6;67
+320;The Feeling;Justin Bieber;pop;2015;127;81;53;21;245;6;67
+321;I Really Like You;Carly Rae Jepsen;pop;2015;122;81;62;60;205;4;66
+322;BO$$;Fifth Harmony;pop;2015;103;87;81;74;171;11;66
+323;Sugar;Maroon 5;pop;2015;120;79;75;88;235;3;66
+324;Focus;Ariana Grande;pop;2015;100;88;67;79;211;24;66
+325;All About That Bass;Meghan Trainor;pop;2015;134;88;81;96;189;5;65
+326;On My Mind;Ellie Goulding;pop;2015;155;71;70;74;213;5;65
+327;Love Me Like You;Little Mix;pop;2015;106;67;79;85;198;4;65
+328;Broken Arrows;Avicii;no pop;2015;116;67;63;29;233;5;65
+329;Booty;Jennifer Lopez;pop;2015;129;95;71;40;210;5;64
+330;What Do You Mean? - Acoustic;Justin Bieber;pop;2015;125;36;77;76;204;4;64
+331;Mark My Words;Justin Bieber;pop;2015;114;26;38;52;134;3;63
+332;Lay It All on Me;Rudimental;pop;2015;123;75;67;48;242;4;62
+333;American Oxygen;Rihanna;pop;2015;78;75;39;48;320;9;61
+334;Bang Bang;Jessie J;pop;2015;150;75;71;73;199;9;61
+335;Reality - Radio Edit;Lost Frequencies;no pop;2015;122;70;71;60;159;3;61
+336;Alive;Sia;no pop;2015;100;76;51;44;264;5;61
+337;Sugar (feat. Francesco Yates);Robin Schulz;pop;2015;123;82;64;64;219;6;60
+338;Been You;Justin Bieber;pop;2015;113;78;74;86;199;7;60
+339;Prayer in C - Robin Schulz Radio Edit;Lilly Wood and The Prick;no pop;2015;123;89;76;78;189;3;58
+340;See You Again (feat. Charlie Puth);Wiz Khalifa;no pop;2015;80;48;69;28;230;8;56
+341;Heroes (we could be);Alesso;no pop;2015;126;75;52;35;210;6;56
+342;"Feel The Light - From The ""Home"" Soundtrack";Jennifer Lopez;pop;2015;156;60;47;4;292;5;55
+343;Perfect;One Direction;no pop;2015;100;82;65;40;230;8;55
+344;Ghosttown;Madonna;pop;2015;79;55;54;9;250;4;54
+345;Bang My Head (feat. Sia & Fetty Wap);David Guetta;pop;2015;108;87;60;59;193;8;54
+346;Bloodstream;Ed Sheeran;pop;2015;89;59;48;27;309;5;52
+347;Living For Love;Madonna;pop;2015;123;79;67;39;219;9;52
+348;Baby Don't Lie;Gwen Stefani;pop;2015;100;55;69;26;203;3;52
+349;Don't Be so Hard on Yourself;Jess Glynne;pop;2015;120;82;57;66;211;3;52
+350;Steal My Girl;One Direction;no pop;2015;77;76;47;52;227;4;51
+351;"Celebrate (From the Original Motion Picture ""Penguins of Madagascar"")";Pitbull;pop;2015;127;85;68;93;193;6;50
+352;We Are Here;Alicia Keys;no pop;2015;93;67;64;8;285;4;49
+353;St Jude;Florence + The Machine;no pop;2015;117;43;26;9;225;3;47
+354;Yesterday (feat. Bebe Rexha);David Guetta;pop;2015;128;78;57;28;243;3;46
+355;Time of Our Lives;Pitbull;pop;2015;124;80;72;72;229;6;45
+356;Sparks;Hilary Duff;pop;2015;122;88;85;79;186;6;44
+357;Mr. Put It Down;Ricky Martin;pop;2015;128;78;80;83;196;18;42
+358;Legendary Lovers;Katy Perry;pop;2015;126;84;62;39;224;8;41
+359;Spark The Fire;Gwen Stefani;pop;2015;120;80;88;54;202;6;39
+360;Run Run Run;Kelly Clarkson;pop;2015;112;37;28;8;273;4;36
+361;Let Me Be Your Lover;Enrique Iglesias;pop;2015;112;90;72;88;238;13;34
+362;Dangerous;Jennifer Hudson;pop;2015;109;53;90;65;255;5;18
+363;L.A.LOVE (la la);Fergie;pop;2015;202;39;48;27;193;9;0
+364;The Hills;The Weeknd;no pop;2016;113;56;58;14;242;5;84
+365;Love Yourself;Justin Bieber;pop;2016;100;38;61;52;234;44;83
+366;Cake By The Ocean;DNCE;pop;2016;119;75;77;90;219;5;81
+367;Don't Let Me Down;The Chainsmokers;pop;2016;160;87;53;42;208;17;81
+368;In the Name of Love;Martin Garrix;no pop;2016;134;52;50;17;196;4;81
+369;Into You;Ariana Grande;pop;2016;108;73;62;37;244;11;80
+370;This Is What You Came For;Calvin Harris;pop;2016;124;93;63;47;222;3;80
+371;Million Reasons;Lady Gaga;pop;2016;130;42;67;15;205;4;80
+372;Needed Me;Rihanna;pop;2016;111;31;67;30;192;24;80
+373;7 Years;Lukas Graham;pop;2016;120;47;77;34;237;5;80
+374;"CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's ""TROLLS"")";Justin Timberlake;pop;2016;113;83;67;70;236;7;79
+375;Work from Home (feat. Ty Dolla $ign);Fifth Harmony;pop;2016;105;59;80;59;214;4;79
+376;Scars To Your Beautiful;Alessia Cara;no pop;2016;97;74;57;45;230;13;79
+377;Like I'm Gonna Lose You (feat. John Legend);Meghan Trainor;pop;2016;108;53;63;42;225;4;79
+378;Work;Rihanna;pop;2016;92;53;73;56;219;9;78
+379;Stitches;Shawn Mendes;pop;2016;150;75;75;76;207;7;78
+380;Me, Myself & I;G-Eazy;no pop;2016;112;67;76;38;251;10;78
+381;I Took A Pill In Ibiza - Seeb Remix;Mike Posner;pop;2016;102;71;66;69;198;11;78
+382;Dangerous Woman;Ariana Grande;pop;2016;134;60;66;29;236;4;78
+383;Starving;Hailee Steinfeld;pop;2016;100;62;73;51;182;6;78
+384;Shout Out to My Ex;Little Mix;pop;2016;126;75;77;80;246;9;77
+385;Electric Love;BORNS;pop;2016;120;80;61;52;218;5;76
+386;Confident;Demi Lovato;pop;2016;130;75;59;34;206;7;75
+387;Too Good;Drake;no pop;2016;118;65;79;39;263;10;74
+388;Roses;The Chainsmokers;pop;2016;100;80;71;34;227;6;74
+389;Cold Water (feat. Justin Bieber & MO);Major Lazer;pop;2016;93;80;61;50;185;4;73
+390;Me Too;Meghan Trainor;pop;2016;124;69;93;84;181;10;73
+391;Light It Up (feat. Nyla & Fuse ODG) [Remix];Major Lazer;pop;2016;108;88;75;75;166;7;73
+392;Ain't Your Mama;Jennifer Lopez;pop;2016;120;68;76;82;218;23;72
+393;Close;Nick Jonas;pop;2016;124;62;65;40;234;8;72
+394;Toothbrush;DNCE;pop;2016;105;79;55;82;232;13;72
+395;All We Know;The Chainsmokers;pop;2016;90;59;66;30;194;3;72
+396;Final Song;MO;pop;2016;105;67;70;25;236;3;72
+397;Company;Justin Bieber;pop;2016;95;80;59;43;208;6;72
+398;Hands To Myself;Selena Gomez;pop;2016;111;50;81;47;201;12;71
+399;All I Ask;Adele;no pop;2016;142;28;59;34;272;3;71
+400;"Just Like Fire (From the Original Motion Picture ""Alice Through The Looking Glass"")";P!nk;pop;2016;163;70;63;50;215;15;71
+401;NO;Meghan Trainor;pop;2016;92;80;56;65;214;22;70
+402;Kill Em With Kindness;Selena Gomez;pop;2016;120;88;76;40;218;4;70
+403;Cool Girl;Tove Lo;pop;2016;102;69;67;20;199;11;69
+404;Runnin' (Lose It All);Naughty Boy;no pop;2016;139;85;32;8;213;8;69
+405;Here;Alessia Cara;no pop;2016;120;82;38;33;199;10;68
+406;Perfect Illusion;Lady Gaga;pop;2016;125;86;61;66;182;4;67
+407;PILLOWTALK;ZAYN;pop;2016;125;70;59;43;204;5;66
+408;Out Of The Woods;Taylor Swift;pop;2016;92;84;55;34;236;4;66
+409;Rise;Katy Perry;pop;2016;101;64;55;44;203;5;66
+410;Wherever I Go;OneRepublic;pop;2016;100;69;55;35;170;4;66
+411;Body Say;Demi Lovato;pop;2016;87;74;63;26;194;4;65
+412;Don't Be A Fool;Shawn Mendes;pop;2016;175;34;47;27;216;4;65
+413;LIKE I WOULD;ZAYN;pop;2016;113;83;56;23;192;11;65
+414;Cheap Thrills;Sia;no pop;2016;90;80;59;73;225;22;64
+415;I Got You;Bebe Rexha;pop;2016;98;89;61;32;192;5;64
+416;Run Away With Me;Carly Rae Jepsen;pop;2016;119;72;56;25;251;5;63
+417;Cruel (feat. ZAYN);Snakehips;pop;2016;110;88;60;32;228;12;63
+418;Send My Love (To Your New Lover);Adele;no pop;2016;164;52;69;56;223;10;61
+419;WTF (Where They From);Missy Elliott;pop;2016;120;82;93;56;193;20;58
+420;Desire;Years & Years;pop;2016;126;78;71;64;203;6;58
+421;When We Were Young;Adele;no pop;2016;144;59;38;27;291;5;58
+422;I Know What You Did Last Summer;Shawn Mendes;pop;2016;114;77;68;72;224;10;57
+423;Wish That You Were Here - From Miss Peregrine's Home for Peculiar Children Original Motion Picture;Florence + The Machine;no pop;2016;94;57;37;12;403;3;57
+424;Hurts;Emeli Sande;pop;2016;106;64;58;18;238;3;57
+425;Change;Christina Aguilera;pop;2016;82;54;62;20;187;8;54
+426;Make Me... (feat. G-Eazy);Britney Spears;pop;2016;123;70;70;58;231;10;53
+427;Keeping Your Head Up;Birdy;no pop;2016;122;78;60;53;208;5;52
+428;True Colors;Zedd;no pop;2016;126;79;57;49;225;4;51
+429;Make Me Like You;Gwen Stefani;pop;2016;118;71;74;80;217;5;50
+430;Champagne Problems;Nick Jonas;pop;2016;108;78;73;64;193;13;50
+431;Blown;DNCE;pop;2016;130;95;63;73;197;4;48
+432;Start;John Legend;no pop;2016;110;4;52;26;310;4;47
+433;Pep Rally;Missy Elliott;pop;2016;90;75;83;32;263;12;47
+434;Higher;Carly Rae Jepsen;pop;2016;114;87;65;44;234;6;46
+435;Invitation;Britney Spears;pop;2016;112;65;37;16;200;11;44
+436;One Call Away (feat. Tyga) - Remix;Charlie Puth;pop;2016;91;69;75;52;192;4;41
+437;Beautiful Birds (feat. Birdy);Passenger;no pop;2016;86;17;39;14;214;3;36
+438;Little Lies;Hilary Duff;pop;2016;124;76;57;40;204;6;36
+439;Do You Wanna Come Over?;Britney Spears;pop;2016;121;70;75;45;203;7;34
+440;BURNITUP!;Janet Jackson;pop;2016;123;71;83;83;250;18;31
+441;Picky - Remix;Joey Montana;no pop;2016;186;81;70;69;225;7;29
+442;Behind Your Back;Nelly Furtado;no pop;2016;98;47;80;69;228;4;18
+443;Million Years Ago;Adele;no pop;2016;115;70;50;50;227;10;60
+444;Shape of You;Ed Sheeran;pop;2017;96;65;83;93;234;8;87
+445;Closer;The Chainsmokers;pop;2017;95;52;75;66;245;3;86
+446;Starboy;The Weeknd;no pop;2017;186;59;68;49;230;28;85
+447;Treat You Better;Shawn Mendes;pop;2017;83;82;44;75;188;34;84
+448;That's What I Like;Bruno Mars;pop;2017;134;56;85;86;207;4;83
+449;Let Me Love You;DJ Snake;no pop;2017;100;72;65;16;206;3;82
+450;I Feel It Coming;The Weeknd;no pop;2017;93;82;77;59;269;12;81
+451;Mercy;Shawn Mendes;pop;2017;148;66;56;36;209;8;81
+452;Side To Side;Ariana Grande;pop;2017;159;74;65;61;226;23;80
+453;Stay;Zedd;no pop;2017;102;62;69;54;210;6;80
+454;It Ain't Me (with Selena Gomez);Kygo;no pop;2017;100;53;64;52;221;7;79
+455;Malibu;Miley Cyrus;pop;2017;140;78;57;34;232;6;78
+456;Something Just Like This;The Chainsmokers;pop;2017;103;65;61;51;248;4;78
+457;Rockabye (feat. Sean Paul & Anne-Marie);Clean Bandit;pop;2017;102;76;72;74;251;5;78
+458;I Don't Wanna Live Forever (Fifty Shades Darker);ZAYN;pop;2017;118;45;74;9;245;6;78
+459;My Way;Calvin Harris;pop;2017;120;91;82;54;219;4;78
+460;I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne);DJ Khaled;pop;2017;81;67;61;81;289;4;77
+461;Praying;Kesha;pop;2017;73;39;58;32;230;3;77
+462;Despacito - Remix;Luis Fonsi;no pop;2017;178;82;65;82;229;17;76
+463;The Greatest;Sia;no pop;2017;192;73;67;73;210;27;76
+464;There for You;Martin Garrix;no pop;2017;106;64;61;13;222;6;76
+465;Paris;The Chainsmokers;pop;2017;100;64;65;25;222;3;76
+466;Crying in the Club;Camila Cabello;pop;2017;85;62;33;60;216;38;75
+467;Mama;Jonas Blue;pop;2017;104;79;74;57;184;4;75
+468;Slide (feat. Frank Ocean & Migos);Calvin Harris;pop;2017;104;80;74;51;231;5;75
+469;Swish Swish;Katy Perry;pop;2017;120;71;84;57;243;4;73
+470;Chained To The Rhythm;Katy Perry;pop;2017;190;80;45;47;238;17;72
+471;Cold (feat. Future);Maroon 5;pop;2017;100;72;69;41;234;11;72
+472;Love;Lana Del Rey;pop;2017;99;37;53;23;273;3;72
+473;Reggaeton Lento (Remix);CNCO;no pop;2017;94;91;53;62;189;9;71
+474;All I Ask;Adele;no pop;2017;142;28;59;34;272;3;71
+475;First Time;Kygo;no pop;2017;90;59;63;68;194;11;71
+476;The Cure;Lady Gaga;pop;2017;100;51;70;52;211;3;71
+477;"How Far I'll Go - From ""Moana""";Alessia Cara;no pop;2017;181;54;31;16;176;35;71
+478;Bodak Yellow;Cardi B;pop;2017;125;72;93;46;224;11;70
+479;Rich Love (with Seeb);OneRepublic;pop;2017;105;87;40;47;201;31;70
+480;Tired;Alan Walker;no pop;2017;124;88;69;49;192;6;70
+481;Came Here for Love;Sigala;pop;2017;125;87;71;72;203;4;70
+482;24K Magic;Bruno Mars;pop;2017;107;80;82;63;226;8;69
+483;Strip That Down (feat. Quavo);Liam Payne;pop;2017;106;50;87;55;202;5;69
+484;Cut To The Feeling;Carly Rae Jepsen;pop;2017;115;91;71;65;208;6;69
+485;OK - Spotify Version;Robin Schulz;pop;2017;122;81;65;58;189;6;69
+486;Bon appetit;Katy Perry;pop;2017;106;79;80;52;228;6;68
+487;Summer Bummer (feat. A$AP Rocky & Playboi Carti);Lana Del Rey;pop;2017;135;57;76;14;261;13;67
+488;Get Low (with Liam Payne);Zedd;no pop;2017;108;93;72;54;205;5;66
+489;Kissing Strangers;DNCE;pop;2017;120;74;77;86;202;4;66
+490;Slow Hands;Niall Horan;pop;2017;86;42;74;85;188;5;64
+491;Younger Now;Miley Cyrus;pop;2017;122;87;55;33;249;6;62
+492;Body Moves;DNCE;pop;2017;102;69;65;86;236;4;62
+493;Reality (feat. Janieck Devy) - Radio Edit;Lost Frequencies;no pop;2017;122;64;73;53;158;4;59
+494;Angel;Fifth Harmony;pop;2017;124;53;74;13;189;4;59
+495;Touch (feat. Kid Ink);Little Mix;pop;2017;102;75;64;53;203;11;59
+496;We Don't Talk Anymore - DROELOE Remix;Charlie Puth;pop;2017;100;82;70;67;218;22;59
+497;Love Incredible (feat. Camila Cabello);Cashmere Cat;no pop;2017;167;50;37;21;180;12;59
+498;No Vacancy (with Sebastian Yatra);OneRepublic;pop;2017;100;76;69;59;223;4;57
+499;Rich Boy;Galantis;no pop;2017;110;90;74;65;184;5;55
+500;Lust for Life (with The Weeknd);Lana Del Rey;pop;2017;100;67;51;27;264;6;54
+501;Greenlight (feat. Flo Rida & LunchMoney Lewis);Pitbull;pop;2017;115;83;70;63;245;27;54
+502;Influence;Tove Lo;pop;2017;105;59;77;33;225;5;54
+503;Remember I Told You;Nick Jonas;pop;2017;113;53;68;84;202;28;53
+504;Messin' Around;Pitbull;pop;2017;158;81;57;78;223;5;51
+505;Water Under the Bridge;Adele;no pop;2017;95;84;60;47;240;7;49
+506;Free Me;Sia;no pop;2017;87;46;27;21;286;3;44
+507;Kissing Strangers - Remix;DNCE;pop;2017;120;77;76;81;202;5;43
+508;A L I E N S;Coldplay;no pop;2017;148;88;43;25;282;4;41
+509;One Kiss (with Dua Lipa);Calvin Harris;pop;2018;124;86;79;59;215;11;86
+510;Havana (feat. Young Thug);Camila Cabello;pop;2018;105;52;77;39;217;3;85
+511;I Like It;Cardi B;pop;2018;136;73;82;65;253;13;85
+512;New Rules;Dua Lipa;pop;2018;116;70;76;61;209;7;84
+513;There's Nothing Holdin' Me Back;Shawn Mendes;pop;2018;122;81;87;97;199;6;84
+514;no tears left to cry;Ariana Grande;pop;2018;122;71;70;35;206;6;84
+515;IDGAF;Dua Lipa;pop;2018;97;54;84;51;218;9;84
+516;In My Blood;Shawn Mendes;pop;2018;140;71;62;49;211;7;83
+517;Wolves;Selena Gomez;pop;2018;125;80;72;31;198;4;83
+518;Dusk Till Dawn - Radio Edit;ZAYN;pop;2018;180;44;26;10;239;4;83
+519;Attention;Charlie Puth;pop;2018;100;61;78;80;209;5;83
+520;Electricity (with Dua Lipa);Silk City;no pop;2018;118;67;59;51;238;5;82
+521;Love On The Brain;Rihanna;pop;2018;172;64;51;38;224;5;82
+522;Let Me Go (with Alesso, Florida Georgia Line & watt);Hailee Steinfeld;pop;2018;103;71;66;74;175;5;82
+523;Silence;Marshmello;no pop;2018;142;76;52;29;181;9;82
+524;Sorry Not Sorry;Demi Lovato;pop;2018;144;64;71;89;204;23;81
+525;Shallow - Radio Edit;Lady Gaga;pop;2018;96;33;57;28;217;3;80
+526;These Days;Rudimental;pop;2018;92;81;65;55;211;5;80
+527;What Lovers Do (feat. SZA);Maroon 5;pop;2018;110;60;80;42;200;6;79
+528;"Finesse - Remix; feat. Cardi B";Bruno Mars;pop;2018;105;86;70;93;217;10;78
+529;Perfect Duet (Ed Sheeran & Beyonce);Ed Sheeran;pop;2018;95;30;59;36;260;3;78
+530;Bad At Love;Halsey;pop;2018;118;75;68;61;181;3;78
+531;Him & I (with Halsey);G-Eazy;no pop;2018;88;73;59;19;269;9;78
+532;Friends (with BloodPop);Justin Bieber;pop;2018;105;73;74;62;189;4;77
+533;Wild Thoughts (feat. Rihanna & Bryson Tiller);DJ Khaled;pop;2018;98;67;67;63;204;7;76
+534;My My My!;Troye Sivan;pop;2018;103;46;70;48;205;8;76
+535;Capital Letters;Hailee Steinfeld;pop;2018;100;81;66;46;219;8;76
+536;Sick Boy;The Chainsmokers;pop;2018;90;58;66;45;193;5;76
+537;Tequila;Dan + Shay;no pop;2018;86;59;47;50;196;3;76
+538;Look What You Made Me Do;Taylor Swift;pop;2018;128;71;77;51;212;12;75
+539;Youth (feat. Khalid);Shawn Mendes;pop;2018;100;60;53;32;191;12;75
+540;Bad Liar;Selena Gomez;pop;2018;121;41;97;73;215;7;75
+541;Anywhere;Rita Ora;pop;2018;107;80;63;32;215;6;74
+542;Say Something;Justin Timberlake;pop;2018;97;63;71;37;279;8;74
+543;Chun-Li;Nicki Minaj;pop;2018;129;73;69;48;192;37;73
+544;Sign of the Times;Harry Styles;pop;2018;120;57;52;21;341;3;72
+545;Familiar;Liam Payne;pop;2018;93;81;64;91;197;33;72
+546;Let Me;ZAYN;pop;2018;168;57;46;19;185;5;72
+547;Supernova;Ansel Elgort;pop;2018;140;62;77;68;191;10;72
+548;Nervous;Shawn Mendes;pop;2018;122;62;84;74;164;8;71
+549;First Time;Kygo;no pop;2018;90;59;63;68;194;11;71
+550;End Game;Taylor Swift;pop;2018;159;59;65;15;245;6;70
+551;Mi Gente (feat. Beyonce);J Balvin;no pop;2018;105;72;76;47;210;8;68
+552;Lemon;N.E.R.D;no pop;2018;95;73;92;20;220;9;68
+553;For You (With Rita Ora);Liam Payne;pop;2018;113;80;54;18;243;3;67
+554;Want To;Dua Lipa;pop;2018;92;69;57;32;212;12;67
+555;What I Need (feat. Kehlani);Hayley Kiyoko;pop;2018;104;79;63;41;220;6;67
+556;Wait;Maroon 5;pop;2018;126;60;66;45;191;6;67
+557;What About Us;P!nk;pop;2018;114;59;39;19;272;6;66
+558;Kissing Strangers;DNCE;pop;2018;120;74;77;86;202;4;66
+559;2U (feat. Justin Bieber);David Guetta;pop;2018;145;61;53;53;195;6;65
+560;Walk On Water (feat. Beyonce);Eminem;no pop;2018;82;44;48;62;304;24;65
+561;This Town;Niall Horan;pop;2018;112;41;68;20;233;3;64
+562;Girls (feat. Cardi B, Bebe Rexha & Charli XCX);Rita Ora;pop;2018;94;69;73;42;221;5;64
+563;MOVE TO MIAMI;Enrique Iglesias;pop;2018;100;87;76;90;169;5;64
+564;Miss You (with Major Lazer & Tory Lanez);Cashmere Cat;no pop;2018;100;64;75;45;186;9;64
+565;Filthy;Justin Timberlake;pop;2018;97;58;75;65;294;14;62
+566;Never Be the Same - Radio Edit;Camila Cabello;pop;2018;130;69;63;25;227;9;57
+567;Ferrari;Bebe Rexha;pop;2018;77;48;58;42;213;3;57
+568;Supplies;Justin Timberlake;pop;2018;120;55;79;23;226;5;57
+569;Boom Boom;RedOne;pop;2018;110;76;75;58;248;5;53
+570;...Ready For It? - BloodPop Remix;Taylor Swift;pop;2018;160;84;58;50;190;22;52
+571;Drip (feat. Migos);Cardi B;pop;2018;130;59;97;27;264;26;45
+572;Tell Me You Love Me - NOTD Remix;Demi Lovato;pop;2018;102;77;58;76;182;8;44
+573;Memories;Maroon 5;pop;2019;91;32;76;57;189;5;99
+574;Lose You To Love Me;Selena Gomez;pop;2019;102;34;51;9;206;4;97
+575;Someone You Loved;Lewis Capaldi;pop;2019;110;41;50;45;182;3;96
+576;Señorita;Shawn Mendes;pop;2019;117;54;76;75;191;3;95
+577;How Do You Sleep?;Sam Smith;pop;2019;111;68;48;35;202;9;93
+578;South of the Border (feat. Camila Cabello & Cardi B);Ed Sheeran;pop;2019;98;62;86;67;204;8;92
+579;Trampoline (with ZAYN);SHAED;pop;2019;127;46;62;50;184;3;92
+580;Happier;Marshmello;no pop;2019;100;79;69;67;214;5;90
+581;Truth Hurts;Lizzo;no pop;2019;158;62;72;41;173;11;90
+582;Good as Hell (feat. Ariana Grande) - Remix;Lizzo;no pop;2019;96;89;67;48;159;6;90
+583;Higher Love;Kygo;no pop;2019;104;68;69;40;228;3;88
+584;Only Human;Jonas Brothers;no pop;2019;94;50;80;87;183;7;87
+585;Beautiful People (feat. Khalid);Ed Sheeran;pop;2019;93;65;64;55;198;19;86
+586;Sucker;Jonas Brothers;no pop;2019;138;73;84;95;181;6;86
+587;Don't Call Me Up;Mabel;pop;2019;99;88;67;23;178;15;86
+588;I Don't Care (with Justin Bieber);Ed Sheeran;pop;2019;102;68;80;84;220;4;85
+589;Talk (feat. Disclosure);Khalid;no pop;2019;136;40;90;35;198;13;84
+590;Giant (with Rag'n'Bone Man);Calvin Harris;pop;2019;122;89;81;61;229;4;84
+591;Takeaway;The Chainsmokers;pop;2019;100;51;53;35;210;3;83
+592;All Around The World (La La La);R3HAB;no pop;2019;125;86;73;52;148;3;82
+593;Girls Like You (feat. Cardi B);Maroon 5;pop;2019;125;54;85;45;236;5;81
+594;Call You Mine;The Chainsmokers;pop;2019;104;70;59;52;218;3;81
+595;No Guidance (feat. Drake);Chris Brown;pop;2019;93;45;70;14;261;15;81
+596;Antisocial (with Travis Scott);Ed Sheeran;pop;2019;152;82;72;91;162;5;78
+597;Taki Taki (feat. Selena Gomez, Ozuna & Cardi B);DJ Snake;no pop;2019;96;80;84;62;213;23;77
+598;Con Calma - Remix;Daddy Yankee;no pop;2019;94;87;74;61;181;5;76
+599;Find U Again (feat. Camila Cabello);Mark Ronson;pop;2019;104;66;61;16;176;3;75
+600;Cross Me (feat. Chance the Rapper & PnB Rock);Ed Sheeran;pop;2019;95;79;75;61;206;12;75
+601;No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo);DJ Khaled;pop;2019;136;76;53;65;260;34;70
+602;Nothing Breaks Like a Heart (feat. Miley Cyrus);Mark Ronson;pop;2019;114;79;60;24;217;7;69
+603;Kills You Slowly;The Chainsmokers;pop;2019;150;44;70;23;213;6;67
