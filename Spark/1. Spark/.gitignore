@@ -1,0 +1,6 @@
+/test
+/docker-compose_old.yml
+/docker-compose_temp.yml
+/apps/main_solution.py
+.DS_Store
+/var
