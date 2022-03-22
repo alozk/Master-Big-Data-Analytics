@@ -1,4 +1,4 @@
-﻿**UNIX**
+**UNIX**
 
 **¿QUÉ ES?**
 
@@ -14,32 +14,13 @@ Tratar los dispositivos como ficheros.
 
 https://bellard.org/jslinux/
 
-![Pantalla de computadora con números
+**Veamos que comandos son los más utilizados:**
 
-Descripción generada automáticamente con confianza media](Aspose.Words.39bc4030-e64e-421a-baba-45acd83df99c.001.png)**Veamos que comandos son los más utilizados:**
-**
-
-
-
-
+![Pantalla de computadora con números](https://github.com/alozk/Master-Big-Data-Analytics/blob/main/FUNDAMENTOS/1.%20FUNDAMENTOS/2.%20LINUX%20%26%20UNIX/PICS/Aspose.Words.39bc4030-e64e-421a-baba-45acd83df99c.001.png)
 
 **FICHEROS**
 
-![Forma
-
-Descripción generada automáticamente con confianza media](Aspose.Words.39bc4030-e64e-421a-baba-45acd83df99c.002.png)
-
-
-
-
-
-
-
-
-
-
-
-
+![Forma](https://github.com/alozk/Master-Big-Data-Analytics/blob/main/FUNDAMENTOS/1.%20FUNDAMENTOS/2.%20LINUX%20%26%20UNIX/PICS/Aspose.Words.39bc4030-e64e-421a-baba-45acd83df99c.002.png)
 
 
 - **Directorio raíz (/)**
@@ -58,24 +39,15 @@ En el que operamos en cada momento de la sesión. Se representa mediante un punt
 
 Permisos
 
-![Linux / Unix: Como cambiar permisos en archivos o directorios (chmod) –  Apuntes de Programación](Aspose.Words.39bc4030-e64e-421a-baba-45acd83df99c.003.png)![PRORED | Los permisos de UNIX, Linux y Mac OS](Aspose.Words.39bc4030-e64e-421a-baba-45acd83df99c.004.png)Unix desde su origen ha sido un sistema multiusuario. Para conseguir que cada usuario pueda trabajar en sus archivos, pero que no pueda interferir accidental o deliberadamente con los archivos de otros usuarios se estableció desde el principio un sistema de permisos.
+![Linux / Unix](https://github.com/alozk/Master-Big-Data-Analytics/blob/main/FUNDAMENTOS/1.%20FUNDAMENTOS/2.%20LINUX%20%26%20UNIX/PICS/Aspose.Words.39bc4030-e64e-421a-baba-45acd83df99c.003.png)
+
+![PRORED | Los permisos de UNIX, Linux y Mac OS](https://github.com/alozk/Master-Big-Data-Analytics/blob/main/FUNDAMENTOS/1.%20FUNDAMENTOS/2.%20LINUX%20%26%20UNIX/PICS/Aspose.Words.39bc4030-e64e-421a-baba-45acd83df99c.004.png)
+
+Unix desde su origen ha sido un sistema multiusuario. Para conseguir que cada usuario pueda trabajar en sus archivos, pero que no pueda interferir accidental o deliberadamente con los archivos de otros usuarios se estableció desde el principio un sistema de permisos.
 
 
 
-
-
-
-![Captura de pantalla de computadora
-
-Descripción generada automáticamente](Aspose.Words.39bc4030-e64e-421a-baba-45acd83df99c.005.png)
-
-
-
-
-
-
-
-
+![Permissions](https://github.com/alozk/Master-Big-Data-Analytics/blob/main/FUNDAMENTOS/1.%20FUNDAMENTOS/2.%20LINUX%20%26%20UNIX/PICS/Aspose.Words.39bc4030-e64e-421a-baba-45acd83df99c.005.png)
 
 
 Ejemplo 1
@@ -87,7 +59,6 @@ Ejemplo 2
 Supongamos que el owner, tiene permiso a todo; el grupo, para leer y escribir; y el público, solo permiso para su lectura. En ese caso: owner = 1+21+22; grupo=21+22; y public=22. Con lo cual el permiso sería: rwx-rw-r-- con valor de 764.
 
 Practica y conoce mas posibilidades en el enlace: <https://chmod-calculator.com/>
-
 
 
 Unidades de disco
@@ -107,5 +78,3 @@ Ejemplo script
 #!/bin/bash
 
 echo "hello world"
-
-
