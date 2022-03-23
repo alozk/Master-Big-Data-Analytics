@@ -71,5 +71,5 @@ La fase de carga es el momento en el cual los datos de la fase anterior (transfo
 <p align="center">
 Pros & Cons</p>
 <p align="center">
-<img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/TRATAMIENTO%20INTEGRAL%20DEL%20DATO/05.%20ETL/PICS/etl2.png" height="80%" width="80%"></a>
+<img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/TRATAMIENTO%20INTEGRAL%20DEL%20DATO/05.%20ETL/PICS/etl2.png" height="100%" width="100%"></a>
 </p>
