@@ -14,14 +14,17 @@ Tratar los dispositivos como ficheros.
 
 https://bellard.org/jslinux/
 
-**Veamos que comandos son los más utilizados:**
+<p>
+<strong>Veamos que comandos son los más utilizados:</strong></p>
+<p>
+<img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/1.%20FUNDAMENTOS/1.%20FUNDAMENTOS/2.%20LINUX%20%26%20UNIX/PICS/linux%26unix1.png" height="40%" width="40%"></a>
+</p>
 
-![Pantalla de computadora con números](https://github.com/alozk/Master-Big-Data-Analytics/blob/main/FUNDAMENTOS/1.%20FUNDAMENTOS/2.%20LINUX%20%26%20UNIX/PICS/Aspose.Words.39bc4030-e64e-421a-baba-45acd83df99c.001.png)
-
-**FICHEROS**
-
-![Forma](https://github.com/alozk/Master-Big-Data-Analytics/blob/main/FUNDAMENTOS/1.%20FUNDAMENTOS/2.%20LINUX%20%26%20UNIX/PICS/Aspose.Words.39bc4030-e64e-421a-baba-45acd83df99c.002.png)
-
+<p>
+<strong>Veamos que comandos son los más utilizados:</strong></p>
+<p>
+<img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/1.%20FUNDAMENTOS/1.%20FUNDAMENTOS/2.%20LINUX%20%26%20UNIX/PICS/linux%26unix2.png" height="40%" width="40%"></a>
+</p>
 
 - **Directorio raíz (/)**
 
@@ -39,15 +42,12 @@ En el que operamos en cada momento de la sesión. Se representa mediante un punt
 
 Permisos
 
-![Linux / Unix](https://github.com/alozk/Master-Big-Data-Analytics/blob/main/FUNDAMENTOS/1.%20FUNDAMENTOS/2.%20LINUX%20%26%20UNIX/PICS/Aspose.Words.39bc4030-e64e-421a-baba-45acd83df99c.003.png)
-
-![PRORED | Los permisos de UNIX, Linux y Mac OS](https://github.com/alozk/Master-Big-Data-Analytics/blob/main/FUNDAMENTOS/1.%20FUNDAMENTOS/2.%20LINUX%20%26%20UNIX/PICS/Aspose.Words.39bc4030-e64e-421a-baba-45acd83df99c.004.png)
+<img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/1.%20FUNDAMENTOS/1.%20FUNDAMENTOS/2.%20LINUX%20%26%20UNIX/PICS/linux%26unix3.png" height="40%" width="40%"></a><img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/1.%20FUNDAMENTOS/1.%20FUNDAMENTOS/2.%20LINUX%20%26%20UNIX/PICS/linux%26unix4.png" height="40%" width="40%"></a>
 
 Unix desde su origen ha sido un sistema multiusuario. Para conseguir que cada usuario pueda trabajar en sus archivos, pero que no pueda interferir accidental o deliberadamente con los archivos de otros usuarios se estableció desde el principio un sistema de permisos.
 
-
-
-![Permissions](https://github.com/alozk/Master-Big-Data-Analytics/blob/main/FUNDAMENTOS/1.%20FUNDAMENTOS/2.%20LINUX%20%26%20UNIX/PICS/Aspose.Words.39bc4030-e64e-421a-baba-45acd83df99c.005.png)
+<p align="center">
+<img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/1.%20FUNDAMENTOS/1.%20FUNDAMENTOS/2.%20LINUX%20%26%20UNIX/PICS/linux%26unix5.png" height="40%" width="40%"></a></p>
 
 
 Ejemplo 1
