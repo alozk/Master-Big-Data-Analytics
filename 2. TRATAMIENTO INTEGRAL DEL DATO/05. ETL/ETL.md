@@ -12,16 +12,13 @@ ETL = extraes datos, los transformas en una estructura compatible, y cargarlo en
 
 ELT = extrae los datos, cárguelos inmediatamente en el sistema de lago de datos de destino y, a continuación, transforme el dato, por lo que las herramientas de inteligencia empresarial pueden consultar y analizarlo ELT generalmente se refiere a los datos proceso de transformación necesario para transformar los datos ya se encuentra en un lago de datos o almacén.
 
-STAGING
-
-![Graphical user interface
-
-Description automatically generated](Aspose.Words.d5e91d03-827e-41fb-91c8-541f2e1b0ec6.001.png)Proceso imprescindible en una ETL
-
-
-
-
-
+<p align="center">
+STAGING</p>
+<p align="center">
+<img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/TRATAMIENTO%20INTEGRAL%20DEL%20DATO/05.%20ETL/PICS/etl1.png" height="40%" width="40%"></a>
+</p>
+<p align="center">
+Proceso imprescindible en una ETL</p>
 
 ETL
 
@@ -71,12 +68,8 @@ La fase de carga es el momento en el cual los datos de la fase anterior (transfo
 
 •Rolling: El proceso de Rolling por su parte, se aplica en los casos en que se opta por mantener varios niveles de granularidad. Para ello se almacena información resumida a distintos niveles, correspondientes a distintas agrupaciones de la unidad de tiempo o diferentes niveles jerárquicos en alguna o varias de las dimensiones de la magnitud almacenada (por ejemplo, totales diarios, totales semanales, totales mensuales, etc.).
 
-
-
-![Graphical user interface
-
-Description automatically generated](Aspose.Words.d5e91d03-827e-41fb-91c8-541f2e1b0ec6.002.png)
-
-
-
-
+<p align="center">
+Pros & Cons</p>
+<p align="center">
+<img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/TRATAMIENTO%20INTEGRAL%20DEL%20DATO/05.%20ETL/PICS/etl2.png" height="100%" width="100%"></a>
+</p>
