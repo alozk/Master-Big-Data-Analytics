@@ -1,4 +1,4 @@
-﻿**ETL**
+**ETL**
 
 Proceso en el cual las organizaciones mueven datos desde múltiples fuentes, se formatean, se limpian, se cargan a otra base de datos, data mart, o data warehouse para analizar u otros.
 
@@ -15,7 +15,7 @@ ELT = extrae los datos, cárguelos inmediatamente en el sistema de lago de datos
 <p align="center">
 STAGING</p>
 <p align="center">
-<img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/TRATAMIENTO%20INTEGRAL%20DEL%20DATO/05.%20ETL/PICS/etl1.png" height="40%" width="40%"></a>
+<img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/2.%20TRATAMIENTO%20INTEGRAL%20DEL%20DATO/05.%20ETL/PICS/etl1.png" height="40%" width="40%"></a>
 </p>
 <p align="center">
 Proceso imprescindible en una ETL</p>
@@ -71,5 +71,5 @@ La fase de carga es el momento en el cual los datos de la fase anterior (transfo
 <p align="center">
 Pros & Cons</p>
 <p align="center">
-<img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/TRATAMIENTO%20INTEGRAL%20DEL%20DATO/05.%20ETL/PICS/etl2.png" height="100%" width="100%"></a>
+<img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/2.%20TRATAMIENTO%20INTEGRAL%20DEL%20DATO/05.%20ETL/PICS/etl2.png" height="100%" width="100%"></a>
 </p>
