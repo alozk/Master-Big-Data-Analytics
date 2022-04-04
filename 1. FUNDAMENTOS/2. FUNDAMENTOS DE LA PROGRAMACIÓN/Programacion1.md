@@ -1,6 +1,11 @@
-﻿**PROGRAMACION**
 
-**Parte 1**
+<p align="center">
+<strong>PROGRAMACION
+</strong></p>
+
+<p align="center">
+Parte 1
+</strong></p>
 
 **¿Qué es programar? ¿Qué es un programa?**
 
@@ -39,7 +44,7 @@ Son los que nos ofrecen la posibilidad de controlar una computadora. Con éstos 
 - Palabras Reservadas
 - Operadores
 - Signos de Puntuación
-- Separadore
+- Separadores
 - Expresiones
 - Errores de diversos tipos
 - Depuración
@@ -52,7 +57,9 @@ La sintaxis en un lenguaje son las reglas que establecen los criterios para cons
 
 **Bajo nivel**: Lenguaje máquina, binario (el 1 pasa la electricidad y el 0 no la pasa) que se ejecuta directamente por la CPU y el más cercano al lenguaje de una máquina. Para entender el binario basta con saber las potencias de 2.
 
-![Binario](https://github.com/alozk/Master-Big-Data-Analytics/blob/main/FUNDAMENTOS/2.%20FUNDAMENTOS%20DE%20LA%20PROGRAMACI%C3%93N/PICS/Aspose.Words.021ed497-8408-481f-a0f3-94faeb96d179.001.png)
+<p>
+<img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/1.%20FUNDAMENTOS/2.%20FUNDAMENTOS%20DE%20LA%20PROGRAMACI%C3%93N/PICS/fund_programacion1.png" height="100%" width="100%"></a>
+</p>
 
 **Medio nivel**: suficiente para que un humano comprenda sin demasiadas complicaciones.
 
@@ -67,46 +74,3 @@ El compilado, requiere la traducción para la ejecución y está por tanto optim
 La ventaja del compilado es que es más rápido ya que el ejecutable está en lenguaje máquina y no necesita ser traducido a medida que se va ejecutando. Sin embargo, cada vez que se cambia el código debe realizarse la compilación.
 
 La ventaja del interpretado es que el tiempo entre escritura y probar es menor, por eso es mejor para el desarrollo. Sin embargo, la velocidad de ejecución es menor y se necesita un intérprete instalado.
-
-
-
-
-
-
-
-
-**Parte 2**
-
-**Tipos de datos:**
-
-- **Cadena de caracteres** (‘string’)
-- **Números enteros** (‘int’ o ‘integer’)
-- **Números decimales** (‘float’ o ‘double’)
-- **Valores Binarios** – Verdadero (1) o Falso (0) (‘True’ y ‘False’)
-- **Fechas** (‘date’ y ‘timestamp’)
-- **Listas** (‘arrays’ o ‘lists’)
-- **Enumerados**
-- **Diccionarios** (‘dic’)
-
-De forma particular, **cada lenguaje aporta otros tipos de datos** como los números irreales o las tuplas (conjuntos de datos ordenados del mismo o diferente tipo).
-
-- **Tipado débil o inferido** (lenguaje no exige declara el tipo de un valor o dato)
-- **Tipado dinámico** (igual que tipado débil, pero si se declara seria estricto)
-- **Tipado fuerte** (exige declara el tipo de un valor o dato)
-
-**Las variables y las constantes:**
-
-Las variables es un dato que almacena un valor, se guardan en el caso de que sea necesario su uso en varias ocasiones para hacer más sencillo y dinámico el código o fragmentos de código. Su valor a lo largo del desarrollo del programa puede cambiar. Para la elección de su nombre hay que tener en cuenta que no pueden tener espacios, no pueden empezar por números, no pueden tener caracteres extraños y se recomienda que comiencen por minúscula.
-
-Las constantes son igual a las variables pero su valor no cambia durante el desarrollo del programa.
-
-**Módulos, paquetes y librerías:**
-
-A medida que el programa crezca y se haga complejo, hará falta de una buena organización y arquitectura para desarrollar un buen código, que este sea mantenible y pueda evolucionar con el paso del tiempo.
-
-Un **módulo** es una porción de programa que tiene a utilizarse frecuentemente, con lo que se decide aislar este fragmento para reutilizarse las veces que sea necesario. Se utilizan para encapsular y modular y también para reutilizar código.
-
-Un **paquete** es un conjunto de módulos almacenados de forma independiente que permite cargar aquellos que necesitemos de forma asilada o en bloque.
-
-Una **librería** son implementaciones ya desarrolladas que ayudan a simplificar tareas complejas. A diferencia de los módulos, nos pueden proporcionar funcionalidades antes inexistentes.
-
