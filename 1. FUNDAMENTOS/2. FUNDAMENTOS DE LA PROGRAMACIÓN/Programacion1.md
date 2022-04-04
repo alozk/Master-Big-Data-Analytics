@@ -33,22 +33,23 @@ Son los que nos ofrecen la posibilidad de controlar una computadora. Con éstos 
 
 **Todo lenguaje de programación cuneta con una serie de elementos comunes:**
 
-- Sintaxis
-- Tipos de datos
-- Variables
-- Identificadores
-- Comentarios
-- Funciones
-- Directivas
-- Condicionales y Bucles
-- Palabras Reservadas
-- Operadores
-- Signos de Puntuación
-- Separadores
-- Expresiones
-- Errores de diversos tipos
-- Depuración
-
+```mermaid
+graph TD;
+A[Elementos comunes] -->B[Sintaxis];
+A[Elementos comunes] -->C[Tipos de datos];
+A[Elementos comunes] -->D[Variables];
+A[Elementos comunes] -->E[Identificadores];
+A[Elementos comunes] -->F[Funciones];
+A[Elementos comunes] -->G[Directivas];
+A[Elementos comunes] -->H[Condicionales y Bucles];
+A[Elementos comunes] -->I[Palabras Reservadas];
+A[Elementos comunes] -->J[Operadores];
+A[Elementos comunes] -->K[Signos de Puntuación];
+A[Elementos comunes] -->L[Separadores];
+A[Elementos comunes] -->M[Expresiones];
+A[Elementos comunes] -->N[Errores de diversos tipos];
+A[Elementos comunes] -->O[Depuración];
+```
 
 
 La sintaxis en un lenguaje son las reglas que establecen los criterios para construir y secuenciar un lenguaje. Y la semántica establece el significado a cada uno de los elementos del lenguaje.
