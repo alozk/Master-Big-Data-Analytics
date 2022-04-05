@@ -1,9 +1,7 @@
 # INTELIGENCIA ARTIFICIAL
-</strong></p>
-<p align = center><strong>
-¿Qué es?
-</strong></p>
-La **inteligencia artificial (IA)** se refiere al estudio, al desarrollo y a la aplicación de técnicas informáticas que les permiten a las computadoras adquirir ciertas habilidades propias de la inteligencia humana.
+<strong>¿Qué es?</strong>
+
+La <strong>inteligencia artificial (IA)</strong> se refiere al estudio, al desarrollo y a la aplicación de técnicas informáticas que les permiten a las computadoras adquirir ciertas habilidades propias de la inteligencia humana.
 
 Por ejemplo:
 
@@ -14,16 +12,20 @@ Por ejemplo:
 -   Comprender el lenguaje natural (Natural Language Processing).
 -   Reconocer imágenes (Computer Vision).
 #
-**Data driven**
+<strong>Data driven:</strong>
+
 Es una forma de tomar decisiones basada en el análisis y la interpretación de información. Se trata de una metodología que permite tomar mejores decisiones estratégicas a las empresas al estar basadas en datos reales que se obtienen de las distintas fuentes de datos e información que maneja la empresa.
 
-**Machine Learning (ML)**
+<strong>Machine Learning (ML):</strong>
+
 El ML se conoce como la herramienta para dotar de inteligencia artificial, así como mejorar esta, mediante entrenamientos automáticos basados en la exposición de datos.
 
-**Deep Learning**
+<strong>Deep Learning:</strong>
+
 El Deep Learning es un tipo de Machine Learning que entrena a una computadora para que realice tareas como las hacemos los seres humanos, como el reconocimiento del habla, la identificación de imágenes o hacer predicciones.
 
-**Algoritmo**
+<strong>Algoritmo:</strong>
+
 Un algoritmo no es más que una secuencia de instrucciones para ejecutar funciones secuencialmente
 #
 ## Machine Learning & Deep Learning
@@ -41,14 +43,22 @@ Saben hacer:
  [poner mermaid aquí, 'State of Art']
 #
 **AI 2021 GPT3**
-**GPT-3**, el nuevo modelo de lenguaje de OpenAI, es capaz de programar, diseñar y hasta conversar sobre política o economía
+**GPT-3**, el nuevo modelo de lenguaje de OpenAI, es capaz de programar, diseñar y hasta conversar sobre política o economía.
+
 [El chatbot más avanzado del mundo:](https://beta.openai.com/playground)
 El 18 de noviembre de 2021, OpenAI anunció la disponibilidad ampliada de su servicio API OpenAI, que permite a los desarrolladores crear aplicaciones basadas en GPT-3. Anteriormente, los desarrolladores tenían que inscribirse en una lista de espera, y la disponibilidad era limitada.
-[insertar captura de playground]
+<p align="center">
+<img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/3.%20AN%C3%81LISIS%20Y%20APRENDIZAJE%20AUTOM%C3%81TICO/1.%20Intro%20AI%20%26%20ML/PICS/AI_and_ML2.png" height="100%" width="100%"></a>
+</p>
+
 #
 **DALL-E**, [crea imágenes a través de texto.](https://openai.com/blog/dall-e/)
 
-[insertar imagen]
+<p align="center">
+<img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/3.%20AN%C3%81LISIS%20Y%20APRENDIZAJE%20AUTOM%C3%81TICO/1.%20Intro%20AI%20%26%20ML/PICS/AI_and_ML1.png" height="100%" width="100%"></a>
+</p>
+
+#
 
 ¿Qué hace el algoritmo pix2pix?
 pix2pix es la abreviatura de una implementación de una traducción genérica de imagen a imagen utilizando redes adversas condicionales, originalmente introducido por Phillip Isola et al. Dado un conjunto de entrenamiento que contiene pares de imágenes relacionadas ("A" y "B"), un modelo pix2pix aprende cómo para convertir una imagen de tipo "A" en una imagen de tipo "B", o viceversa. [Aquí puedes ver ejemplos](https://phillipi.github.io/pix2pix/).
@@ -71,7 +81,7 @@ inventar nuevas formas de crear medios sintéticos y tal vez incluso democratiza
 instrucción (programación) a ingeniosa "ingeniería rápida".
 
  - **CLIP: Conexión de texto e imágenes.**
-Presentamos una red neuronal llamada CLIP que aprende conceptos visuales de manera eficiente a partir de la supervisión 						del lenguaje natural. CLIP puede aplicarse a cualquier punto de referencia de clasificación visual simplemente proporcionando los nombres de las categorías visuales que se reconocerán, similar a las capacidades de "disparo cero" de GPT-2 y GPT-3.
+Presentamos una red neuronal llamada CLIP que aprende conceptos visuales de manera eficiente a partir de la supervisión del lenguaje natural. CLIP puede aplicarse a cualquier punto de referencia de clasificación visual simplemente proporcionando los nombres de las categorías visuales que se reconocerán, similar a las capacidades de "disparo cero" de GPT-2 y GPT-3.
 
  - **VQGAN**, Vector Quantized Generative Adversarial Network.
  Combina redes neuronales convolucionales (tradicionalmente utilizadas para imágenes) con Transformadores (tradicionalmente utilizados para el lenguaje) VQGAN puede aprender no solo las partes visuales de una imagen, sino también su relaciones un tipo de arquitectura de red neuronal
@@ -87,16 +97,17 @@ del proceso de ingeniería de características”. - Pedro Domingo
 “Los marcos y servicios de AutoML eliminan la necesidad de datos calificados
 científicos para construir Machine Learning y Deep Learning”
 
-• Mejora la eficiencia al automatizar las tareas más repetitivas. Esto permite que el
+- Mejora la eficiencia al automatizar las tareas más repetitivas. Esto permite que el
 científicos de datos a dedicar más tiempo a los problemas que a los modelos.
 AutoML tiende a automatizar tantos pasos como sea posible en las canalizaciones de ML y conserva un buen modelo
 rendimiento con la mano de obra mínima.
 También proporciona métodos y procesos para:
 
-**¿Por qué AutoML está aumentando?**
-• Hacer que el aprendizaje automático sea más accesible.
-• Mejorar la eficiencia de los sistemas de aprendizaje automático.
-• Acelerar la investigación y el desarrollo de aplicaciones de IA.
-• Mejora la eficiencia al automatizar las tareas más repetitivas. Esta permite a los científicos de datos dedicar más tiempo a los problemas en lugar de que en los modelos.
-• Las canalizaciones de ML automatizadas también ayudan a evitar posibles errores causados ​​por trabajo manual.
-• AutoML es un gran paso hacia la democratización del aprendizaje automático y permite que todos usen las funciones de ML.
+<strong>¿Por qué AutoML está aumentando?</strong>
+
+- Hacer que el aprendizaje automático sea más accesible.
+- Mejorar la eficiencia de los sistemas de aprendizaje automático.
+- Acelerar la investigación y el desarrollo de aplicaciones de IA.
+- Mejora la eficiencia al automatizar las tareas más repetitivas. Esta permite a los científicos de datos dedicar más tiempo a los problemas en lugar de que en los modelos.
+- Las canalizaciones de ML automatizadas también ayudan a evitar posibles errores causados por trabajo manual.
+- AutoML es un gran paso hacia la democratización del aprendizaje automático y permite que todos usen las funciones de ML.
