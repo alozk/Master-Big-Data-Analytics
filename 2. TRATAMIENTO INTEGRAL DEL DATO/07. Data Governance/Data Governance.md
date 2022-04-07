@@ -1,5 +1,4 @@
-<p align="center">
-  <strong>DATA GOVERNANCE</strong></p>
+# DATA GOVERNANCE
 
 1. Data Strategy
 
@@ -30,27 +29,31 @@ Un data strategy ayuda asegurando que los datos son gestionados y utilizados com
 Cambio de mentalidad cultural</p>
 
 <p align="center">
-<img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/TRATAMIENTO%20INTEGRAL%20DEL%20DATO/07.%20Data%20Governance/PICS/datagovernance1.png" height="70%" width="70%"></a>
+<img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/2.%20TRATAMIENTO%20INTEGRAL%20DEL%20DATO/07.%20Data%20Governance/PICS/datagovernance1.png" height="70%" width="70%"></a>
 </p>
 <p align="center">
-<img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/TRATAMIENTO%20INTEGRAL%20DEL%20DATO/07.%20Data%20Governance/PICS/datagovernance2.png" height="70%" width="70%"></a>
+<img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/2.%20TRATAMIENTO%20INTEGRAL%20DEL%20DATO/07.%20Data%20Governance/PICS/datagovernance2.png" height="70%" width="70%"></a>
 </p>
 
 <p align="center">
 Business e IT, objetivos comunes</p>
 
 <p align="center">
-<img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/TRATAMIENTO%20INTEGRAL%20DEL%20DATO/07.%20Data%20Governance/PICS/datagovernance3.png" height="30%" width="30%"></a>
+<img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/2.%20TRATAMIENTO%20INTEGRAL%20DEL%20DATO/07.%20Data%20Governance/PICS/datagovernance3.png" height="30%" width="30%"></a>
 </p>
 <p align="center">
-<img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/TRATAMIENTO%20INTEGRAL%20DEL%20DATO/07.%20Data%20Governance/PICS/datagovernance4.png" height="70%" width="70%"></a>
+<img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/2.%20TRATAMIENTO%20INTEGRAL%20DEL%20DATO/07.%20Data%20Governance/PICS/datagovernance4.png" height="70%" width="70%"></a>
 </p>
+
+#
 
 2. Roles y Responsabilidades
 </p>
 <p align="center">
-<img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/TRATAMIENTO%20INTEGRAL%20DEL%20DATO/07.%20Data%20Governance/PICS/datagovernance5.png" height="70%" width="70%"></a>
+<img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/2.%20TRATAMIENTO%20INTEGRAL%20DEL%20DATO/07.%20Data%20Governance/PICS/datagovernance5.png" height="70%" width="70%"></a>
 </p>
+
+#
 
 3. Modelo de datos
 - Físico
@@ -75,17 +78,19 @@ Se centra en la identificación de los datos utilizados en el negocio, pero no e
 Tooling election</p>
 
 <p align="center">
-<img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/TRATAMIENTO%20INTEGRAL%20DEL%20DATO/07.%20Data%20Governance/PICS/datagovernance6.png" height="70%" width="70%"></a>
+<img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/2.%20TRATAMIENTO%20INTEGRAL%20DEL%20DATO/07.%20Data%20Governance/PICS/datagovernance6.png" height="70%" width="70%"></a>
 </p>
+
+#
 
 4. Comités y funcionamiento
 <p align="center">
-<img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/TRATAMIENTO%20INTEGRAL%20DEL%20DATO/07.%20Data%20Governance/PICS/datagovernance7.png" height="70%" width="70%"></a>
+<img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/2.%20TRATAMIENTO%20INTEGRAL%20DEL%20DATO/07.%20Data%20Governance/PICS/datagovernance7.png" height="70%" width="70%"></a>
 </p>
 
 <p align="center">
 Real scenarios</p>
 
 <p align="center">
-<img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/TRATAMIENTO%20INTEGRAL%20DEL%20DATO/07.%20Data%20Governance/PICS/datagovernance8.png" height="70%" width="70%"></a>
+<img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/2.%20TRATAMIENTO%20INTEGRAL%20DEL%20DATO/07.%20Data%20Governance/PICS/datagovernance8.png" height="70%" width="70%"></a>
 </p>
