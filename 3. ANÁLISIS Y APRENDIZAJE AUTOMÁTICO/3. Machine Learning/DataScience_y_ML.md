@@ -40,13 +40,17 @@ Aprendizaje Supervisado VS No Supervisado
 <strong>No Supervisado:</strong></p> Clustering, reducción de dimensionalidad
 </strong></p>
 
-<strong>Supervisado:</strong> Para entrenar el modelo se utiliza un dataset o conjunto de muestras etiquetado (train). El objetivo es predecir la etiqueta que tendrán futuras muestras (test) que el modelo no ha visto en su entrenamiento.
-• Clasificar si un correo es spam o no.
-• Predecir la producción de energía solar producida en una planta.
+<strong>Supervisado:</strong> Para entrenar el modelo se utiliza un dataset o conjunto de muestras etiquetado (train).
+El objetivo es predecir la etiqueta que tendrán futuras muestras (test) que el modelo no ha visto en su entrenamiento.
+- Clasificar si un correo es spam o no.
+- Predecir la producción de energía solar producida en una planta.
 
-<strong>No Supervisado:</strong> Para entrenar el modelo se utiliza un dataset o conjunto de muestras sin etiquetar. El objetivo es encontrar patrones en los datos para extraer conocimiento útil.
-• Segmentar tus usuarios en 2 grupos.
-• Reducción a 2 dimensiones.
+
+
+<strong>No Supervisado:</strong> Para entrenar el modelo se utiliza un dataset o conjunto de muestras sin etiquetar.
+El objetivo es encontrar patrones en los datos para extraer conocimiento útil.
+- Segmentar tus usuarios en 2 grupos.
+- Reducción a 2 dimensiones.
 
 <p align = center><strong>
 Resumen
