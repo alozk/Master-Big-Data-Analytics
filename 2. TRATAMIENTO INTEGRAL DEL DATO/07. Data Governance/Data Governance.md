@@ -28,30 +28,40 @@ Un data strategy ayuda asegurando que los datos son gestionados y utilizados com
 <p align="center">
 Cambio de mentalidad cultural</p>
 
-<p align="center">
-<img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/2.%20TRATAMIENTO%20INTEGRAL%20DEL%20DATO/07.%20Data%20Governance/PICS/datagovernance1.png" height="70%" width="70%"></a>
-</p>
-<p align="center">
-<img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/2.%20TRATAMIENTO%20INTEGRAL%20DEL%20DATO/07.%20Data%20Governance/PICS/datagovernance2.png" height="70%" width="70%"></a>
-</p>
+```mermaid
+flowchart TB
+subgraph "'Data is a part of your business, not a tool for it'"
+a(((Define))) ==== b(((Align)));
+b(((Align))) ==== c(((Manage)));
+end
+```
+```mermaid
+flowchart LR
+d(Measure and Monitor) ---- e(Apply)
+e(Apply) ---- f(Define)
+f(Define) <---->g(Discover)
+g(Discover) --- d(Measure and Monitor)
+```
 
 <p align="center">
 Business e IT, objetivos comunes</p>
 
-<p align="center">
-<img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/2.%20TRATAMIENTO%20INTEGRAL%20DEL%20DATO/07.%20Data%20Governance/PICS/datagovernance3.png" height="30%" width="30%"></a>
-</p>
-<p align="center">
-<img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/2.%20TRATAMIENTO%20INTEGRAL%20DEL%20DATO/07.%20Data%20Governance/PICS/datagovernance4.png" height="70%" width="70%"></a>
-</p>
+```mermaid
+flowchart LR
+a(Data) --- |Mantain| b(IT)
+b(IT) --- |Support| c(Business)
+c(Business) --- |Use| a(Data)
+```
 
 #
 
 2. Roles y Responsabilidades
 </p>
-<p align="center">
-<img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/2.%20TRATAMIENTO%20INTEGRAL%20DEL%20DATO/07.%20Data%20Governance/PICS/datagovernance5.png" height="70%" width="70%"></a>
-</p>
+
+```mermaid
+flowchart LR
+A(Data Consumer) === B(Content Owner) === C(Platform Owner) === D(Data Steward)
+```
 
 #
 
@@ -77,20 +87,42 @@ Se centra en la identificación de los datos utilizados en el negocio, pero no e
 <p align="center">
 Tooling election</p>
 
-<p align="center">
-<img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/2.%20TRATAMIENTO%20INTEGRAL%20DEL%20DATO/07.%20Data%20Governance/PICS/datagovernance6.png" height="70%" width="70%"></a>
-</p>
+```mermaid
+flowchart TB
+A[Tooling Election] ===> B([Data Catalogue])
+A[Tooling Election] ===> C([Data Governance])
+A[Tooling Election] ===> D([Data Quality])
+```
 
 #
 
 4. Comités y funcionamiento
 <p align="center">
-<img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/2.%20TRATAMIENTO%20INTEGRAL%20DEL%20DATO/07.%20Data%20Governance/PICS/datagovernance7.png" height="70%" width="70%"></a>
-</p>
+
+```mermaid
+flowchart TB
+A[Data Governance Operating Model] == Establishes & Drives ==> B[Data Stewardship Activities]
+B[Data Stewardship Activities] == Reports & Escalates ==> A[Data Governance Operating Model]
+B[Data Stewardship Activities] == Aligns & Coordinates ==> C[IT/Operational Data Management Activities]
+C[IT/Operational Data Management Activities] == Monitors & Remediates ==> B[Data Stewardship Activities]
+```
+
 
 <p align="center">
 Real scenarios</p>
 
-<p align="center">
-<img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/2.%20TRATAMIENTO%20INTEGRAL%20DEL%20DATO/07.%20Data%20Governance/PICS/datagovernance8.png" height="70%" width="70%"></a>
-</p>
+```mermaid
+stateDiagram-v2
+s1 : Scenario 1
+s2 : Scenario 2
+s3 : Scenario 3
+s4 : Scenario 4
+NE : New Entity
+NA : New Attribute
+QI : Quality Issue
+NR : New Report
+s1 --> NE
+s2 --> NA
+s3 --> QI
+s4 --> NR
+```
