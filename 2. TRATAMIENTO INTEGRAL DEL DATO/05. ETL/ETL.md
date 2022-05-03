@@ -14,9 +14,16 @@ ELT = extrae los datos, cárguelos inmediatamente en el sistema de lago de datos
 
 <p align="center">
 STAGING</p>
-<p align="center">
-<img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/2.%20TRATAMIENTO%20INTEGRAL%20DEL%20DATO/05.%20ETL/PICS/etl1.png" height="40%" width="40%"></a>
-</p>
+
+```mermaid
+flowchart LR
+A[(Oracle)] ==>B[(Staging Area)]
+C[(SQL Server)] ==>B[(Staging Area)]
+D[(Teradata)] ==>B[(Staging Area)]
+E[Flat File] ==>B[(Staging Area)]
+B[(Staging Area)] ==> F[(Data Warehouse)]
+```
+
 <p align="center">
 Proceso imprescindible en una ETL</p>
 
