@@ -48,14 +48,14 @@ Saben hacer:
 [El chatbot más avanzado del mundo:](https://beta.openai.com/playground)
 El 18 de noviembre de 2021, OpenAI anunció la disponibilidad ampliada de su servicio API OpenAI, que permite a los desarrolladores crear aplicaciones basadas en GPT-3. Anteriormente, los desarrolladores tenían que inscribirse en una lista de espera, y la disponibilidad era limitada.
 <p align="center">
-<img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/3.%20AN%C3%81LISIS%20Y%20APRENDIZAJE%20AUTOM%C3%81TICO/1.%20Intro%20AI%20%26%20ML/PICS/AI_and_ML2.png" height="100%" width="100%"></a>
+<img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/3.%20AN%C3%81LISIS%20Y%20APRENDIZAJE%20AUTOM%C3%81TICO/1.%20Intro%20AI%20%26%20ML/1.%20Pictures/AI_and_ML2.png" height="100%" width="100%"></a>
 </p>
 
 #
 **DALL-E**, [crea imágenes a través de texto.](https://openai.com/blog/dall-e/)
 
 <p align="center">
-<img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/3.%20AN%C3%81LISIS%20Y%20APRENDIZAJE%20AUTOM%C3%81TICO/1.%20Intro%20AI%20%26%20ML/PICS/AI_and_ML1.png" height="100%" width="100%"></a>
+<img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/3.%20AN%C3%81LISIS%20Y%20APRENDIZAJE%20AUTOM%C3%81TICO/1.%20Intro%20AI%20%26%20ML/1.%20Pictures/AI_and_ML1.png" height="100%" width="100%"></a>
 </p>
 
 #
