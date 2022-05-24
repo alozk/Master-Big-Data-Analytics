@@ -4,8 +4,9 @@ El procesamiento del lenguaje natural es un subcampo de la lingüística, la inf
 relacionado con las interacciones entre las computadoras y el lenguaje humano,
 en particular, cómo programar computadoras para procesar y analizar grandes cantidades de datos de lenguaje natural.
 
-poner foto
-
+<p align="center">
+<img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/3.%20AN%C3%81LISIS%20Y%20APRENDIZAJE%20AUTOM%C3%81TICO/1.%20Intro%20AI%20%26%20ML/1.%20Pictures/NLP1.png" height="100%" width="100%"></a>
+</p>
 
 - Redes Neuronales están inspiradas en cómo trabaja el cerebro.
 Intentan modelar las respuestas neuronales en el cerebro asociadas a diversos estímulos. - Deep Learning se refiere a las ANN con un alto número de capas intermedias.
@@ -22,8 +23,9 @@ Intentan modelar las respuestas neuronales en el cerebro asociadas a diversos es
 
 ### EVOLUCIÓN Y APLICACIONES DEL NLP
 
-poner foto
-
+<p align="center">
+<img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/3.%20AN%C3%81LISIS%20Y%20APRENDIZAJE%20AUTOM%C3%81TICO/1.%20Intro%20AI%20%26%20ML/1.%20Pictures/NLP2.png" height="100%" width="100%"></a>
+</p>
 
 ### Aplicaciones del NLP
 1) Autocorrección de Búsqueda y Autocompletar.
@@ -38,5 +40,6 @@ poner foto
 10) Filtros en los Correos
 
 ### LIBRERÍAS Y TÉCNICAS DE NLP
-Ver el notebook: 
-https://github.com/alozk/Master-Big-Data-Analytics/blob/main/3.%20AN%C3%81LISIS%20Y%20APRENDIZAJE%20AUTOM%C3%81TICO/1.%20Intro%20AI%20%26%20ML/NLP.ipynb
+Ver el notebook:
+
+https://github.com/alozk/Master-Big-Data-Analytics/blob/main/3.%20AN%C3%81LISIS%20Y%20APRENDIZAJE%20AUTOM%C3%81TICO/1.%20Intro%20AI%20%26%20ML/3.%20Notebooks/NLP.ipynb
