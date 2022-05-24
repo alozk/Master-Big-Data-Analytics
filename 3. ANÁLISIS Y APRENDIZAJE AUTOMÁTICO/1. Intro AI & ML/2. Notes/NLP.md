@@ -26,6 +26,9 @@ Intentan modelar las respuestas neuronales en el cerebro asociadas a diversos es
 <p align="center">
 <img src="https://github.com/alozk/Master-Big-Data-Analytics/blob/main/3.%20AN%C3%81LISIS%20Y%20APRENDIZAJE%20AUTOM%C3%81TICO/1.%20Intro%20AI%20%26%20ML/1.%20Pictures/NLP2.png" height="100%" width="100%"></a>
 </p>
+<p align="center">
+Más información aquí: https://www.freshgravity.com/evolution-of-natural-language-processing/
+</p>
 
 ### Aplicaciones del NLP
 1) Autocorrección de Búsqueda y Autocompletar.
