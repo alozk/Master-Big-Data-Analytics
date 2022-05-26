@@ -74,7 +74,7 @@ Otros métodos de filtro serían:
 - Relief Algorithm
 - FCBF algorithm
 
-<strong> ¿Qué métodos utilizar? </strong>
+<p align="center"><strong> ¿Qué métodos utilizar? </strong></p>
 
 ```mermaid
 flowchart TB
