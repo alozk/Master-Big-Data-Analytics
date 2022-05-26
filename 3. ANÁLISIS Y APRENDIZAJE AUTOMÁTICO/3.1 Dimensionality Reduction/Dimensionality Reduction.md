@@ -13,7 +13,12 @@ La dimensionalidad es elevada cuando el número de características es mayor al 
 3. Tendencia al overfitting.
 
 Entonces ¿cuántas características debe tener un modelo?
-crear tabla mermaid
+
+| Menor Número de Variables | Mayor Número de Variables |
+| :-------------: | :-------------: |
+| Fácil de interpretar | Más difícil de interpretar |
+| Menos probable al ‘Overfitting’  | Mayor tendencia al Overfitting.  |
+| Menor precisión al predecir  | Mayor precisión de predicción  |
 
 ### Feature Selection y Feature Extraction
 
@@ -26,7 +31,7 @@ Para conjuntos de datos de alta dimensión (es decir, con número de dimensiones
 
 La extracción de características y la reducción de la dimensión se puede combinar en un solo paso utilizando análisis de componentes principales ([PCA](https://es.wikipedia.org/wiki/An%C3%A1lisis_de_componentes_principales)), análisis discriminante lineal (LDA), o análisis de la correlación canónica (CCA) técnicas como un paso pre-procesamiento seguido por la agrupación de K-NN en vectores de características en el espacio reducido dimensión. En aprendizaje automático este proceso de pocas dimensiones también se llama incrustar.​
 
-<strong>Ventajas de la reducción de dimensionalidad:
+<strong>Ventajas de la reducción de dimensionalidad:</strong>
 - Reduce el espacio de tiempo y almacenamiento requerido.
 - La eliminación de multicolinealidad mejora el rendimiento del modelo de aprendizaje automático.
 - Se hace más fácil de visualizar los datos cuando se reduce a dimensiones muy bajas tales como 2D o 3D.
@@ -41,15 +46,18 @@ Los métodos de filtrado evalúan la relevancia de los predictores fuera de los 
 - Funcionan como parte del procesamiento de datos. La selección de variables es Independiente de los modelos de ML
 - Clasifican las variables en función de la correlación que tienen con la variable de salida (Output).
 - Se utilizan criterios univariados.
-
-crear mermaid
-
+```mermaid
+flowchart LR
+    A[Todas las características]-->B[Seleccionamos el mejor subconjunto]-->C[Learning Algorithm]-->D[Performance]
+ ```
 
 ¿Qué métodos existen?
 
-crear mermaid
+| Varianza | Chi Cuadrado | Correlación de Pearson |
+| :-------------: | :-------------: | :-------------: |
+  | Elimina variables que son constantes o casi constantes.| Utilizado para Clasificación. Es un test de inedependencia estadística que determina la dependencia de 2 variables | Se utiliza para medir la dependencia linear entre 2 variables contínuas X e Y. Su valor varía entre -1 y 1.  |
 
-<strong> t-SNE </strong>
+ ## t-SNE 
 
 - Es una técnica para visualizar datos de alta dimensión con FE, mediante observaciones que son más diferentes en un espacio de altas dimensiones.
 - Debido a esto, las observaciones que son similares estarán más cercanas entre si y pueden agruparse.
@@ -68,11 +76,33 @@ Otros métodos de filtro serían:
 
 <strong> ¿Qué métodos utilizar? </strong>
 
-crear mermaid
-
+```mermaid
+flowchart TB
+  a[Input Variable] --> b[Numerical]
+  a[Input Variable] --> c[Categorical]
+  b[Numerical] --> d[Output Variable]
+  d[Output Variable] -->e[Numerical]
+  d[Output Variable] -->f[Categorical]
+  e[Numerical] -->g[Pearnson's]
+  e[Numerical] -->h[Spearman's]
+  f[Categorical] -->i[ANOVA]
+  f[Categorical] -->j[Kendall's]
+  c[Categorical] -->k[Output Variable]
+  k[Output Variable] -->l[Numerical]
+  k[Output Variable] -->m[Categorical]
+  l[Numerical] --> i[ANOVA]
+  l[Numerical] --> j[Kendall's]
+  m[Categorical] --> n[Chi-Squared]
+  m[Categorical] --> o[Mutual Information]
+```
+  
 <strong>Ventajas y desventajas de los métodos de filtro</strong>
-crear mermaid
 
+| VENTAJAS | DESVENTAJAS |
+| :-------------: | :-------------: |
+| No dependen del Modelo |  Analizan las variables de forma individual. |
+| Dependen por completo de las variables del dataset.  | No detectan la correlación grupal.  |
+| Computacionalmente son muy rápidos  |   |
 
 ## Wrapping Methods
 
@@ -92,8 +122,11 @@ Empieza con un conjunto vacío de características (Reduced Set). La mejor varia
 
 <strong>Ventajas y Desventajas de los métodos de Envoltorio (Wrapper) </strong>
 
-crear mermaid
-
+| VENTAJAS | DESVENTAJAS |
+| :-------------: | :-------------: |
+| Los resultados suelen ser mejores respecto a los Filter. |  Computacionalmente extensos. |
+| Interacción entre los subconjuntos de variables.  | Riesgo de Overfitting.  |
+| Mantienen las dependencias entre las variables.s  | Dependientes del Training Set |
 
 ## Embeded Methods
 - Combinan las cualidades métodos de filtro y los mérodos de Wrapper
