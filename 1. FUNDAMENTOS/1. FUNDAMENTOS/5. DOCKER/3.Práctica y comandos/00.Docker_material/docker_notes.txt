@@ -1,0 +1,12 @@
+crear un contenedor a partir de una imagen:
+
+- necesitamos en el Dockerfile tener el CMD dentro del Dockerfile
+FROM centos
+
+RUN yum install httpd -y
+
+CMD apachectl -DFOREGROUND
+
+Ejecutamos el comando:
+
+docker build -t apache-centos:apache-cmd .
